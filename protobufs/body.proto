@@ -1,0 +1,5 @@
+message Body {
+  optional string text = 1;
+  required Header header = 2;
+  repeated Body children = 3; 
+}

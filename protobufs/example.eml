@@ -1,0 +1,1351 @@
+                                                                                                                                                                                                                                                               
+Delivered-To: meteor.kirk@gmail.com
+Received: by 10.140.38.41 with SMTP id s38csp196518qgs;
+        Mon, 6 Oct 2014 09:06:05 -0700 (PDT)
+X-Received: by 10.68.213.97 with SMTP id nr1mr25507772pbc.85.1412611565209;
+        Mon, 06 Oct 2014 09:06:05 -0700 (PDT)
+Return-Path: <delivery@mx.sailthru.com>
+Received: from mxout13.cac.washington.edu (mxout13.cac.washington.edu. [140.142.32.202])
+        by mx.google.com with ESMTPS id t3si10912045pdr.157.2014.10.06.09.06.04
+        for <meteor.kirk@gmail.com>
+        (version=TLSv1 cipher=RC4-SHA bits=128/128);
+        Mon, 06 Oct 2014 09:06:05 -0700 (PDT)
+Received-SPF: fail (google.com: domain of delivery@mx.sailthru.com does not designate 140.142.32.202 as permitted sender) client-ip=140.142.32.202;
+Authentication-Results: mx.google.com;
+       spf=hardfail (google.com: domain of delivery@mx.sailthru.com does not designate 140.142.32.202 as permitted sender) smtp.mail=delivery@mx.sailthru.com;
+       dkim=pass header.i=@st.theclymb.com
+Received: from mxe24.s.uw.edu (mxe24.s.uw.edu [173.250.227.24])
+	by mxout13.cac.washington.edu (8.14.4+UW14.03/8.14.4+UW14.04) with ESMTP id s96G5cIj028384
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES256-SHA bits=256 verify=OK)
+	for <meteor.kirk@gmail.com>; Mon, 6 Oct 2014 09:05:45 -0700
+Received: from mx-theclymb-b.sailthru.com (mx-theclymb-b.sailthru.com [192.64.237.147])
+	by mxe24.s.uw.edu (8.14.4+UW14.03/8.14.4+UW14.04) with ESMTP id s96G4wlI014226
+	for <meteor@u.washington.edu>; Mon, 6 Oct 2014 09:05:07 -0700
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; s=mt; d=pmta.sailthru.com;
+ h=Date:From:To:Message-ID:Subject:MIME-Version:Content-Type:List-Unsubscribe;
+ bh=9QYnD57yp1NHgEZpBjzluf4I/MI=;
+ b=O4K82vjXkcD8rYAC6giUZlK7ZApo0zLZKIQVTYmmF8dnphAzCQtfKLUKazbdsxMa6fjH0OCiHzq3
+   dCofNM17iCfEHIFnzKt3XEaQquJjc6WCUM69p4mL9R9RUgFvVc8Rn3efysDIqHaeQlI0RSEkdgn8
+   haVrXMpBvqL7FrBO3kc=
+Received: from nyp1-p-p4337-prd-jma-08.sailthru.pvt (65.39.215.160) by mx-theclymb-b.sailthru.com id h6aur61s6j0m for <meteor@u.washington.edu>; Mon, 6 Oct 2014 11:02:42 -0400 (envelope-from <delivery@mx.sailthru.com>)
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple; t=1412607762;
+	s=sailthru; d=st.theclymb.com;
+	h=Date:From:To:Message-ID:Subject:MIME-Version:Content-Type:List-Unsubscribe;
+	bh=CEQnk/rvOY47kx6ivS3PelMGvSzcpuwrRPIrOYNLAks=;
+	b=fPNfcF/Nfxp0fYOW8KOytheBohVigvunRlUgA/x5cxUQg5F7/QkkjD22ec+iCw5R
+	c/hPOZ76h3ITGY92TrHlwOwwqtrEYiTt21Ws3ajiQRoSf36I+UzAim7X1fz73Cutgko
+	QZiZh+MGVwkMUhkH8DdFVhHSoVgba4Ojyc2O8FV0=
+Date: Mon, 6 Oct 2014 11:02:42 -0400 (EDT)
+From: The Clymb <email@st.theclymb.com>
+To: meteor@u.washington.edu
+Message-ID: <20141006150242.3148823.409273@sailthru.com>
+Subject: POC helmets and gloves, Up to 70% Off RAEN shades, De Marchi
+ cycling, Topo Designs, Ultimate October sales for rugged gear and apparel,
+ Multi-Sport footwear and apparel, and more + Discover Vietnam!
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_23913258_297605565.1412607762337"
+Precedence: bulk
+X-TM-ID: 20141006150242.3148823.409273
+X-Info: Message sent by sailthru.com customer The Clymb
+X-Info: We do not permit unsolicited commercial email
+X-Info: Please report abuse by forwarding complete headers to
+X-Info: abuse@sailthru.com
+X-Mailer: sailthru.com
+X-JMailer: nyp1-p-p4337-prd-jma-08.sailthru.pvt
+X-IADB-IP: 65.39.215.19
+X-IADB-IP-REVERSE: 19.215.39.65
+X-IADB-URL: http://www.isipp.com/iadb.php
+X-Unsubscribe-Web: http://link.st.theclymb.com/oc/5424569b09c5c5dd638b588e1vhnb.8rsp/7f331785
+List-Unsubscribe: <http://link.st.theclymb.com/oc/5424569b09c5c5dd638b588e1vhnb.8rsp/7f331785>, <mailto:unsubscribe_20141006150242.3148823.409273@mx.sailthru.com>
+X-rpcampaign: sthgu3148823
+X-PMX-Version: 6.0.3.2322014, Antispam-Engine: 2.7.2.2107409, Antispam-Data: 2014.10.6.155422
+X-PMX-Server: mxout13.cac.washington.edu
+X-Uwash-Spam: Gauge=IIIIIIIII, Probability=9%, Report='
+ HTML_90_100 0.1, HTML_95_100 0.1, SUPERLONG_LINE 0.05, BODY_SIZE_10000_PLUS 0, BULK_EMAIL_SENDER 0, CHILD_EX_X3 0, DKIM_SIGNATURE 0, SPF_PASS 0, SXL_IP_TFX_ESP 0, __ANY_URI 0, __CANPHARM_XX_OFF 0, __CP_MEDIA_BODY 0, __CP_NAME_BODY 0, __CP_URI_IN_BODY 0, __CT 0, __CTYPE_HAS_BOUNDARY 0, __CTYPE_MULTIPART 0, __CTYPE_MULTIPART_ALT 0, __FRAUD_CONTACT_NUM 0, __FRAUD_MONEY 0, __FRAUD_MONEY_VALUE 0, __HAS_FROM 0, __HAS_HTML 0, __HAS_LIST_HEADER 0, __HAS_LIST_UNSUBSCRIBE 0, __HAS_MSGID 0, __HAS_X_MAILER 0, __MIME_HTML 0, __MIME_VERSION 0, __OEM_PRICE 0, __SANE_MSGID 0, __STOCK_PHRASE_7 0, __STYLE_RATWARE_NEG 0, __TAG_EXISTS_HTML 0, __TO_MALFORMED_2 0, __TO_NO_NAME 0, __URI_NO_MAILTO 0, __URI_NO_WWW 0, __URI_NS '
+
+------=_Part_23913258_297605565.1412607762337
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+     
+
+MEN'S <http://link.st.theclymb.com/5424569b09c5c5dd638b588e1vhnb.8rsp/U6ICU8PoW37GHwmhE5770>  
+24 Hours Only <http://link.st.theclymb.com/5424569b09c5c5dd638b588e1vhnb.8rsp/VC8qi0mO8szYNWNfE4af5>
+Shop Men's De Marchi24 Hours Only <http://link.st.theclymb.com/5424569b09c5c5dd638b588e1vhnb.8rsp/VC8qi0mO8szYNWNfFf615>
+Cycling apparel from the Italian classic <http://link.st.theclymb.com/5424569b09c5c5dd638b588e1vhnb.8rsp/VC8qi0mO8szYNWNfGae18>
+
+Filson, Cushe, & More <http://link.st.theclymb.com/5424569b09c5c5dd638b588e1vhnb.8rsp/VC8EMUmOhnraIGXbE39ba>
+Shop Ultimate October ManFilson, Cushe, & More <http://link.st.theclymb.com/5424569b09c5c5dd638b588e1vhnb.8rsp/VC8EMUmOhnraIGXbF7cb1>
+Rugged wear for a refined kind of cool. <http://link.st.theclymb.com/5424569b09c5c5dd638b588e1vhnb.8rsp/VC8EMUmOhnraIGXbG4be5>
+
+MPG, Mizuno, & More <http://link.st.theclymb.com/5424569b09c5c5dd638b588e1vhnb.8rsp/VC8qi0mO8szYNWNgEf582>
+Shop Men's Multi-SportMPG, Mizuno, & More <http://link.st.theclymb.com/5424569b09c5c5dd638b588e1vhnb.8rsp/VC8qi0mO8szYNWNgF4613>
+Footwear and apparel for peak fitness <http://link.st.theclymb.com/5424569b09c5c5dd638b588e1vhnb.8rsp/VC8qi0mO8szYNWNgGb286>  Enter to Win a Trip to South America <http://link.st.theclymb.com/5424569b09c5c5dd638b588e1vhnb.8rsp/VCRmw0mOAhjnAOF1C71fb> WOMEN'S <http://link.st.theclymb.com/5424569b09c5c5dd638b588e1vhnb.8rsp/U6ICU8PoW37GHwmlC5731>  
+24 Hours Only <http://link.st.theclymb.com/5424569b09c5c5dd638b588e1vhnb.8rsp/VC8qi0mO8szYNWNiEcd3d>
+Shop Women's RAEN <http://link.st.theclymb.com/5424569b09c5c5dd638b588e1vhnb.8rsp/VC8qi0mO8szYNWNiFf03e>
+Elevated design for your eyes <http://link.st.theclymb.com/5424569b09c5c5dd638b588e1vhnb.8rsp/VC8qi0mO8szYNWNiG4761>
+
+Raen, Element Eden, & More <http://link.st.theclymb.com/5424569b09c5c5dd638b588e1vhnb.8rsp/VC8EMUmOhnraIGXcEef18>
+Shop Ultimate October Woman <http://link.st.theclymb.com/5424569b09c5c5dd638b588e1vhnb.8rsp/VC8EMUmOhnraIGXcFd782>
+Styles to capture the essence of October. <http://link.st.theclymb.com/5424569b09c5c5dd638b588e1vhnb.8rsp/VC8EMUmOhnraIGXcGcd4a>
+
+MPG, Asics, & More <http://link.st.theclymb.com/5424569b09c5c5dd638b588e1vhnb.8rsp/VC8qi0mO8szYNWNjE4055>
+Shop Women's Multi-Sport <http://link.st.theclymb.com/5424569b09c5c5dd638b588e1vhnb.8rsp/VC8qi0mO8szYNWNjFddd6>
+Apparel and footwear to get in shape <http://link.st.theclymb.com/5424569b09c5c5dd638b588e1vhnb.8rsp/VC8qi0mO8szYNWNjGc251>  
+48 Hours Only <http://link.st.theclymb.com/5424569b09c5c5dd638b588e1vhnb.8rsp/VC75jkmOW3loGPt3Ee056>
+Shop Women's SLS3 <http://link.st.theclymb.com/5424569b09c5c5dd638b588e1vhnb.8rsp/VC75jkmOW3loGPt3F6069>
+Top of the line fitness apparel. <http://link.st.theclymb.com/5424569b09c5c5dd638b588e1vhnb.8rsp/VC75jkmOW3loGPt3Gb0e5>
+GEAR AND MORE <http://link.st.theclymb.com/5424569b09c5c5dd638b588e1vhnb.8rsp/U6ICU8PoW37GHwmpC0d29>
+
+24 Hours Only <http://link.st.theclymb.com/5424569b09c5c5dd638b588e1vhnb.8rsp/VC8qi0mO8szYNWNkEaf9a>
+Shop POC <http://link.st.theclymb.com/5424569b09c5c5dd638b588e1vhnb.8rsp/VC8qi0mO8szYNWNkF3ab3>
+State-of-the-art designs to rely on <http://link.st.theclymb.com/5424569b09c5c5dd638b588e1vhnb.8rsp/VC8qi0mO8szYNWNkGaf9b>
+24 Hours Only <http://link.st.theclymb.com/5424569b09c5c5dd638b588e1vhnb.8rsp/VC8qi0mO8szYNWNlEee26>
+Shop Topo Designs <http://link.st.theclymb.com/5424569b09c5c5dd638b588e1vhnb.8rsp/VC8qi0mO8szYNWNlFdfe1>
+Packs that blend art and function <http://link.st.theclymb.com/5424569b09c5c5dd638b588e1vhnb.8rsp/VC8qi0mO8szYNWNlG68f6>
+
+24 Hours Only <http://link.st.theclymb.com/5424569b09c5c5dd638b588e1vhnb.8rsp/VC8qi0mO8szYNWNmE3205>
+Shop The Clymb <http://link.st.theclymb.com/5424569b09c5c5dd638b588e1vhnb.8rsp/VC8qi0mO8szYNWNmF1ba0>
+Orders Ship Free When You Purchase Clymb Gear! <http://link.st.theclymb.com/5424569b09c5c5dd638b588e1vhnb.8rsp/VC8qi0mO8szYNWNmG052e> <http://link.st.theclymb.com/5424569b09c5c5dd638b588e1vhnb.8rsp/VC8qi0mO8szYNWNnCf654>
+
+Powerocks, Bern, & More <http://link.st.theclymb.com/5424569b09c5c5dd638b588e1vhnb.8rsp/VC8qi0mO8szYNWNoE2d02>
+Shop Electronic Accessories <http://link.st.theclymb.com/5424569b09c5c5dd638b588e1vhnb.8rsp/VC8qi0mO8szYNWNoF9333>
+Headphones, earbuds, cell cases, and more <http://link.st.theclymb.com/5424569b09c5c5dd638b588e1vhnb.8rsp/VC8qi0mO8szYNWNoG7537> <http://link.st.theclymb.com/5424569b09c5c5dd638b588e1vhnb.8rsp/U6IU_uYQHqZqEhWLC106a>
+CLYMB ADVENTURES <http://link.st.theclymb.com/5424569b09c5c5dd638b588e1vhnb.8rsp/U6ICVMPoW37GHwm1C1bd8>
+
+Vietnam Discovery for 2 <http://link.st.theclymb.com/5424569b09c5c5dd638b588e1vhnb.8rsp/VC8twEmOX3nvm9GjG3b1a>Explore the majestic Halong Bay as you cruise among the islands. Then cycle country roads past rice paddies and villages, before completing your cross-country tour in the Mekong Delta. <http://link.st.theclymb.com/5424569b09c5c5dd638b588e1vhnb.8rsp/VC8twEmOX3nvm9GjH38e4>
+10 days / $1,509.00 <http://link.st.theclymb.com/5424569b09c5c5dd638b588e1vhnb.8rsp/VC8twEmOX3nvm9GjI6f88> <http://link.st.theclymb.com/5424569b09c5c5dd638b588e1vhnb.8rsp/VC8twEmOX3nvm9GjJfbf6>
+Explore this Adventure
+
+Everest Base Camp Trekking <http://link.st.theclymb.com/5424569b09c5c5dd638b588e1vhnb.8rsp/VCsDUkmOuwEx8b4kGc5a7>Discover breathtaking mountains, quaint Sherpa villages, and ancient Buddhist monasteries in the shadow of Mount Everest as you trek to Kala Patthar (18,225 ft) and Everest Base Camp (17,598 ft). <http://link.st.theclymb.com/5424569b09c5c5dd638b588e1vhnb.8rsp/VCsDUkmOuwEx8b4kH7b5b>
+14 days / $999.00 <http://link.st.theclymb.com/5424569b09c5c5dd638b588e1vhnb.8rsp/VCsDUkmOuwEx8b4kIa933> Trek the roof of the world <http://link.st.theclymb.com/5424569b09c5c5dd638b588e1vhnb.8rsp/VCsDUkmOuwEx8b4kJ3e80>
+Explore this Adventure Trek the roof of the world <http://link.st.theclymb.com/5424569b09c5c5dd638b588e1vhnb.8rsp/VCsDUkmOuwEx8b4kK034f> THERE'S STILL TIME <http://link.st.theclymb.com/5424569b09c5c5dd638b588e1vhnb.8rsp/U6ICU8PoW37GHwmhFe861>
+
+Men's SLS3 <http://link.st.theclymb.com/5424569b09c5c5dd638b588e1vhnb.8rsp/VC75jkmOW3loGPt0C576e> Girl's Gracie <http://link.st.theclymb.com/5424569b09c5c5dd638b588e1vhnb.8rsp/VC7tlUmOhnraIGVhC3323> Optic Nerve <http://link.st.theclymb.com/5424569b09c5c5dd638b588e1vhnb.8rsp/VC7tlUmOhnraIGVgC9f25> Sector 9 <http://link.st.theclymb.com/5424569b09c5c5dd638b588e1vhnb.8rsp/VC7tlUmOhnraIGVkCf03f>
+ON THIS DAY IN ADVENTURE <http://link.st.theclymb.com/5424569b09c5c5dd638b588e1vhnb.8rsp/U6ICU8PoW37GHwmhG21c3>
+Lewis Completes the Ultimate Human-Powered Adventure
+On October 6th (that's today!), 2007, British adventurer Jason Lewis completed a 13-year, human-powered global circumnavigation. Starting from England, he rowed across the Atlantic, roller-bladed across North America, biked across the Outback, got attacked by an alligator, and broke both of his legs after a car struck him while roller blading in Colorado. He spent 9-months recuperating before returning to his mission. He raised over $66,000 for charities along the way and traveled 46,000 miles.
+Read More Read More <http://link.st.theclymb.com/5424569b09c5c5dd638b588e1vhnb.8rsp/U6ICVMPoW37GHwnACb6cb> 
+
+If you believe this has been sent to you in error, please click <http://link.st.theclymb.com/oc/5424569b09c5c5dd638b588e1vhnb.8rsp/7f331785> to safely unsubscribe.
+------=_Part_23913258_297605565.1412607762337
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8" />
+<title></title>
+<style type=3D"text/css">
+/* Outlook link fix */
+#outlook a {padding:0;}
+/* Hotmail background & line height fixes */
+.ExternalClass {width:100% !important;}
+.ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font,
+.ExternalClass td, .ExternalClass div {line-height: 100%;}
+/* Image borders & formatting */
+img {outline:none; text-decoration:none; -ms-interpolation-mode: bicubic;}=
+=20
+a img {border:none;}=20
+/* Re-style iPhone automatic links (eg. phone numbers) */
+.appleLinks a {color:#dfdfdf; text-decoration: none;}
+.appleLinksWhite a {color:#ffffff; text-decoration: none;}
+/* Hotmail symbol fix for mobile devices */
+.ExternalClass img[class^=3DEmoji] { width: 10px !important; height: 10px !=
+important; display: inline !important; }=20
+/* Media Query for mobile */
+@media screen and (max-width: 480px) {=09
+/* This resizes tables and images to be 100% wide with a proportionate widt=
+h */
+*[class=3Demailwrapto100pc]{width:100% !important; height:auto !important;}
+/* Hide stuff on mobiles */
+*[class=3Demailnomob]{display:none !important;}
+*[class=3Demailcolsplit]{width:100%!important; float:left!important;}
+a[class=3Demailmobbutton]{display:block !important;font-size:14px !importan=
+t; font-weight:normal !important; padding:6px 4px 8px 4px !important; line-=
+height:18px !important; background:#666666 !important; border-radius:1px !i=
+mportant; margin:10px auto;width:90%; text-align:center; color:#dfdfdf !imp=
+ortant; text-decoration:none;}
+/* This resizes body text for mobiles */
+*[class=3Demailbodytext]{font-size:16px !important; line-height:21px !impor=
+tant;}
+*[class=3Demailh2]{font-size:22px !important; line-height:26px !important;}
+}
+</style>
+<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D1.=
+0"/>
+</head>
+<body style=3D"padding:0; margin:0;-webkit-text-size-adjust:none;-ms-text-s=
+ize-adjust:100%; background-color:#191919" bgcolor=3D"#191919">
+<!-- preheader  -->
+<div class=3D"emailnomob">
+<table bgcolor=3D"#ffffff" border=3D"0" cellspacing=3D"0" cellpadding=3D"0"=
+ width=3D"100%" align=3D"center" style=3D"font-family: proxima nova, 'Helve=
+tica Neue', Helvetica, Arial, sans-serif;border-bottom: #00cbff 3px solid;c=
+olor: #000001;" class=3D"emailwrapto100pc">
+<tr>
+<td align=3D"center">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"662" style=
+=3D"padding: 10px 0 5px;" class=3D"emailwrapto100pc">
+<tr>
+<td style=3D"font-size: 12px;text-align: left;width: 75%;font-family: proxi=
+ma nova, 'Helvetica Neue', Helvetica, Arial, sans-serif;">
+<!-- preheader copy -->
+Invite a Friend and You Each Get $10
+<!-- /preheader copy -->=20
+<!-- preheader link -->
+<a href=3D"http://link.st.theclymb.com/5424569b09c5c5dd638b588e1vhnb.8rsp/U=
+6NloOYQjEro9jQlAa5f3" style=3D"color: #00ccff;text-decoration: underline;">=
+Invite Now =C2=BB</a>   =20
+<!-- /preheader link -->   =20
+</td>
+<td style=3D"font-size: 12px;text-align: right;width: 25%;font-family: prox=
+ima nova, 'Helvetica Neue', Helvetica, Arial, sans-serif;">
+<a href=3D"http://link.st.theclymb.com/view/5424569b09c5c5dd638b588e1vhnb.8=
+rsp/2d2d5124" style=3D"color: #666666;">View Online</a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+<!-- /preheader -->
+<!--  header  -->
+<table bgcolor=3D"#191919" border=3D"0" cellspacing=3D"0" cellpadding=3D"0"=
+ style=3D"font-family: proxima nova, 'Helvetica Neue', Helvetica, Arial, sa=
+ns-serif;width: 100%;color: #000000;"  class=3D"emailwrapto100pc">
+<tr>
+<td>
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" align=3D"center" st=
+yle=3D"clear: both;width: 676px;padding-top: 7px;padding-bottom: 7px;paddin=
+g-left: 7px;padding-right: 7px;"  class=3D"emailwrapto100pc">
+<tr>
+<td>
+<table width=3D"662" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=
+=3D"width: 662px;" class=3D"emailwrapto100pc">
+<tr>
+<td style=3D"padding-top: 10px;">
+<a title=3D"The Clymb" href=3D"http://link.st.theclymb.com/5424569b09c5c5dd=
+638b588e1vhnb.8rsp/U6ICVMPoW37GHwnBPe228"><img src=3D"http://link.st.thecly=
+mb.com/img/5424569b09c5c5dd638b588e1vhnb.8rsp/a9117f4f.gif" width=3D"127" h=
+eight=3D"33" alt=3D"The Clymb" style=3D"border: none;color: #ffffff;width: =
+127px;height: 33px;vertical-align: top;margin: 0 0 7px;"/></a>
+</td>
+<!-- shop now buttons in nav -->
+<td style=3D"padding-top: 10px;padding-bottom: 0px;padding-left: 0px;paddin=
+g-right: 0px;text-align: right;font-size: 12px;">
+<table align=3D"right" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" cla=
+ss=3D"emailnomob">
+<tr>
+<td style=3D"border-left: none;margin: 0px;text-align: left;padding: 5px 13=
+px;padding-left: 0px;"><a href=3D"http://link.st.theclymb.com/5424569b09c5c=
+5dd638b588e1vhnb.8rsp/U6ICU8PoW37GHwmhS0562" style=3D"font-family: proxima =
+nova, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size: 11px;color:=
+ #aaaaaa;text-decoration: none;text-transform: uppercase;letter-spacing: 2p=
+x;">MENS</a></td>
+<td style=3D"border-left: #333333 solid 1px;margin: 0px;text-align: left;pa=
+dding: 5px 13px;"><a href=3D"http://link.st.theclymb.com/5424569b09c5c5dd63=
+8b588e1vhnb.8rsp/U6ICU8PoW37GHwmlO8043" style=3D"font-family: proxima nova,=
+ 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size: 11px;color: #aaa=
+aaa;text-decoration: none;text-transform: uppercase;letter-spacing: 2px;">W=
+OMENS</a></td>
+<td style=3D"border-left: #333333 solid 1px;margin: 0px;text-align: left;pa=
+dding: 5px 13px;"><a href=3D"http://link.st.theclymb.com/5424569b09c5c5dd63=
+8b588e1vhnb.8rsp/U6ICVMPoW37GHwm1Od522" style=3D"font-family: proxima nova,=
+ 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size: 11px;color: #aaa=
+aaa;text-decoration: none;text-transform: uppercase;letter-spacing: 2px;">A=
+DVENTURES</a></td>
+<td style=3D"border-left: #333333 solid 1px;margin: 0px;text-align: left;pa=
+dding: 5px 13px;padding-right: 0px;"><a href=3D"http://link.st.theclymb.com=
+/5424569b09c5c5dd638b588e1vhnb.8rsp/U6ICVMPoW37GHwnCM73fa" style=3D"font-fa=
+mily: proxima nova, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-siz=
+e: 11px;color: #aaaaaa;text-decoration: none;text-transform: uppercase;lett=
+er-spacing: 2px;">STORIES</a></td>
+</tr>
+</table>
+<!--  /shop now buttons in nav  -->
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<!--  /header  -->
+<!-- body wrapper -->
+<table bgcolor=3D"#191919" border=3D"0" cellspacing=3D"0" cellpadding=3D"0"=
+ style=3D"font-family: proxima nova, 'Helvetica Neue', Helvetica, Arial, sa=
+ns-serif;width: 100%;color: #000000;"  class=3D"emailwrapto100pc">
+<tr>
+<td>
+<!-- welcome series logic -->
+<!-- /welcome series logic -->=20
+<!-- daily email -->     =20
+<div style=3D"background-color:#191919">
+<!--Mens and womens sales-->
+<table class=3D"emailwrapto100pc" width=3D"662" align=3D"center" cellpaddin=
+g=3D"0" cellspacing=3D"0" border=3D"0">
+<tr>
+<td style=3D"margin: 0; padding: 0;" valign=3D"top" class=3D"emailcolsplit"=
+>
+<!--column 1 - mens events-->
+<table class=3D"emailwrapto100pc" style=3D"border-collapse:collapse; mso-ta=
+ble-lspace:0; mso-table-rspace:0; margin: 0; padding: 0; width: 224px;" cel=
+lpadding=3D"0" cellspacing=3D"0" border=3D"0">
+<tr style=3D"margin: 0; padding: 0;">
+<td style=3D"margin: 0; font-family: 'Proxima Nova', 'Helvetica Neue', Helv=
+etica, Arial, sans-serif; padding: 0px;">
+<!--title - mens events-->
+<table class=3D"emailwrapto100pc" border=3D"0" cellspacing=3D"0" cellpaddin=
+g=3D"0" style=3D"margin: 0;width: 324px;">
+<tr style=3D"height: 17px;">
+<td style=3D"margin: 0;padding-top: 7px;padding-bottom: 7px;">
+<div style=3D"width: 100%; margin: 0 auto; display: block;">
+<fieldset style=3D"border: 0px;border-top: 1px solid #58595b;padding:2px;">
+<legend align=3D"center" style=3D"padding:0px 14px;"><a href=3D"http://link=
+.st.theclymb.com/5424569b09c5c5dd638b588e1vhnb.8rsp/U6ICU8PoW37GHwmhB908e" =
+style=3D"padding: 0px;color: #ffffff;font-size: 14px;font-family: 'Proxima =
+Nova', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-weight: bold;let=
+ter-spacing: 1px;white-space: nowrap;text-decoration: none;">MEN'S</a></leg=
+end>
+</fieldset>
+</div>
+</td>
+</tr>
+</table><!--/title - mens events-->
+<!--event-->
+<table class=3D"emailwrapto100pc" width=3D"324" cellpadding=3D"0" cellspaci=
+ng=3D"0">
+<tr>
+<td style=3D"padding-bottom: 14px">
+<table class=3D"emailwrapto100pc" width=3D"324" cellpadding=3D"0" cellspaci=
+ng=3D"0">
+<tr>
+<td>
+<a title=3D"24 Hours Only" href=3D"http://link.st.theclymb.com/5424569b09c5=
+c5dd638b588e1vhnb.8rsp/VC8qi0mO8szYNWNfBc233"><img class=3D"emailwrapto100p=
+c" src=3D"http://theclymb-cdn.global.ssl.fastly.net/brand_profiles/12556/cu=
+stom_emaillarge_0-33eff36008cb3f2514b124f67520fa53c2d48ed9.jpg" alt=3D"24 H=
+ours Only" width=3D"324" style=3D" font-family: 'Proxima Nova', 'Helvetica =
+Neue', Helvetica, Arial, sans-serif; margin: 0; padding: 0; display:block;c=
+olor:#ffffff;" border=3D"0"></a>
+</td>
+</tr>
+<tr>
+<td align=3D"center" width=3D"324" height=3D"36" bgcolor=3D"#00CCFF">
+<a href=3D"http://link.st.theclymb.com/5424569b09c5c5dd638b588e1vhnb.8rsp/V=
+C8qi0mO8szYNWNfC6c12" style=3D"font-size: 14px; font-weight: bold; margin: =
+0px; padding: 10px; background-color: #00ccff !important; font-family: 'Pro=
+xima Nova', 'Helvetica Neue', Helvetica, Arial, sans-serif; text-decoration=
+: none; color: #111111; display: block; text-align: center;letter-spacing:1=
+px;text-transform: uppercase;">Shop Men's De Marchi<img src=3D"http://clymb=
+.s3.amazonaws.com/email/grayarrow.png" alt=3D"24 Hours Only" width=3D"6px" =
+height=3D"7px" style=3D"border: none;color: #ffffff;padding-bottom: 1px;wid=
+th: 6px;height: 7px;padding-left: 4px;"></a>
+</td>
+</tr>
+<tr>
+<td align=3D"center" width=3D"324" height=3D"44" bgcolor=3D"#333333">
+<a href=3D"http://link.st.theclymb.com/5424569b09c5c5dd638b588e1vhnb.8rsp/V=
+C8qi0mO8szYNWNfD54c3" style=3D"font-size: 13px; font-weight: normal; margin=
+: 0px; padding: 10px; background-color: #333333 !important; font-family: 'P=
+roxima Nova', 'Helvetica Neue', Helvetica, Arial, sans-serif; text-decorati=
+on: none; color: #aaaaaa; display: block; text-align: center;letter-spacing=
+:0px;font-style:italic;">Cycling apparel from the Italian classic</a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table><!--/event--><!--event-->
+<table class=3D"emailwrapto100pc" width=3D"324" cellpadding=3D"0" cellspaci=
+ng=3D"0">
+<tr>
+<td style=3D"padding-bottom: 14px">
+<table class=3D"emailwrapto100pc" width=3D"324" cellpadding=3D"0" cellspaci=
+ng=3D"0">
+<tr>
+<td>
+<a title=3D"Filson, Cushe, &amp; More" href=3D"http://link.st.theclymb.com/=
+5424569b09c5c5dd638b588e1vhnb.8rsp/VC8EMUmOhnraIGXbB8a4b"><img class=3D"ema=
+ilwrapto100pc" src=3D"http://clymb.s3.amazonaws.com/email/100514_October_Ma=
+n_email_tile.jpg" alt=3D"Filson, Cushe, &amp; More" width=3D"324" style=3D"=
+ font-family: 'Proxima Nova', 'Helvetica Neue', Helvetica, Arial, sans-seri=
+f; margin: 0; padding: 0; display:block;color:#ffffff;" border=3D"0"></a>
+</td>
+</tr>
+<tr>
+<td align=3D"center" width=3D"324" height=3D"36" bgcolor=3D"#00CCFF">
+<a href=3D"http://link.st.theclymb.com/5424569b09c5c5dd638b588e1vhnb.8rsp/V=
+C8EMUmOhnraIGXbC5a4c" style=3D"font-size: 14px; font-weight: bold; margin: =
+0px; padding: 10px; background-color: #00ccff !important; font-family: 'Pro=
+xima Nova', 'Helvetica Neue', Helvetica, Arial, sans-serif; text-decoration=
+: none; color: #111111; display: block; text-align: center;letter-spacing:1=
+px;text-transform: uppercase;">Shop Ultimate October Man<img src=3D"http://=
+clymb.s3.amazonaws.com/email/grayarrow.png" alt=3D"Filson, Cushe, &amp; Mor=
+e" width=3D"6px" height=3D"7px" style=3D"border: none;color: #ffffff;paddin=
+g-bottom: 1px;width: 6px;height: 7px;padding-left: 4px;"></a>
+</td>
+</tr>
+<tr>
+<td align=3D"center" width=3D"324" height=3D"44" bgcolor=3D"#333333">
+<a href=3D"http://link.st.theclymb.com/5424569b09c5c5dd638b588e1vhnb.8rsp/V=
+C8EMUmOhnraIGXbD6f8d" style=3D"font-size: 13px; font-weight: normal; margin=
+: 0px; padding: 10px; background-color: #333333 !important; font-family: 'P=
+roxima Nova', 'Helvetica Neue', Helvetica, Arial, sans-serif; text-decorati=
+on: none; color: #aaaaaa; display: block; text-align: center;letter-spacing=
+:0px;font-style:italic;">Rugged wear for a refined kind of cool.</a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table><!--/event--><!--event-->
+<table class=3D"emailwrapto100pc" width=3D"324" cellpadding=3D"0" cellspaci=
+ng=3D"0">
+<tr>
+<td style=3D"padding-bottom: 14px">
+<table class=3D"emailwrapto100pc" width=3D"324" cellpadding=3D"0" cellspaci=
+ng=3D"0">
+<tr>
+<td>
+<a title=3D"MPG, Mizuno, &amp; More" href=3D"http://link.st.theclymb.com/54=
+24569b09c5c5dd638b588e1vhnb.8rsp/VC8qi0mO8szYNWNgBfa0c"><img class=3D"email=
+wrapto100pc" src=3D"http://theclymb-cdn.global.ssl.fastly.net/brand_profile=
+s/12567/custom_emaillarge_0-e44b83041a4dd0859c5aecca5a4570ac529e53da.jpg" a=
+lt=3D"MPG, Mizuno, &amp; More" width=3D"324" style=3D" font-family: 'Proxim=
+a Nova', 'Helvetica Neue', Helvetica, Arial, sans-serif; margin: 0; padding=
+: 0; display:block;color:#ffffff;" border=3D"0"></a>
+</td>
+</tr>
+<tr>
+<td align=3D"center" width=3D"324" height=3D"36" bgcolor=3D"#00CCFF">
+<a href=3D"http://link.st.theclymb.com/5424569b09c5c5dd638b588e1vhnb.8rsp/V=
+C8qi0mO8szYNWNgC2374" style=3D"font-size: 14px; font-weight: bold; margin: =
+0px; padding: 10px; background-color: #00ccff !important; font-family: 'Pro=
+xima Nova', 'Helvetica Neue', Helvetica, Arial, sans-serif; text-decoration=
+: none; color: #111111; display: block; text-align: center;letter-spacing:1=
+px;text-transform: uppercase;">Shop Men's Multi-Sport<img src=3D"http://cly=
+mb.s3.amazonaws.com/email/grayarrow.png" alt=3D"MPG, Mizuno, &amp; More" wi=
+dth=3D"6px" height=3D"7px" style=3D"border: none;color: #ffffff;padding-bot=
+tom: 1px;width: 6px;height: 7px;padding-left: 4px;"></a>
+</td>
+</tr>
+<tr>
+<td align=3D"center" width=3D"324" height=3D"44" bgcolor=3D"#333333">
+<a href=3D"http://link.st.theclymb.com/5424569b09c5c5dd638b588e1vhnb.8rsp/V=
+C8qi0mO8szYNWNgD5c65" style=3D"font-size: 13px; font-weight: normal; margin=
+: 0px; padding: 10px; background-color: #333333 !important; font-family: 'P=
+roxima Nova', 'Helvetica Neue', Helvetica, Arial, sans-serif; text-decorati=
+on: none; color: #aaaaaa; display: block; text-align: center;letter-spacing=
+:0px;font-style:italic;">Footwear and apparel for peak fitness</a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table><!--/event-->
+<!--event-->
+<table class=3D"emailwrapto100pc" width=3D"324" cellpadding=3D"0" cellspaci=
+ng=3D"0">
+<tr>
+<td style=3D"padding-bottom: 14px">
+<a title=3D"Enter to Win a Trip to South America" href=3D"http://link.st.th=
+eclymb.com/5424569b09c5c5dd638b588e1vhnb.8rsp/VCRmw0mOAhjnAOF1Bd240"><img c=
+lass=3D"emailwrapto100pc" src=3D"http://clymb.s3.amazonaws.com/email/092514=
+_ETSA_promo_tile_324x229.jpg" alt=3D"Enter to Win a Trip to South America" =
+width=3D"324" style=3D"font-family: 'Proxima Nova', 'Helvetica Neue', Helve=
+tica, Arial, sans-serif; margin: 0; padding: 0; display:block;" border=3D"0=
+"></a>
+</td>
+</tr>
+</table><!--/event-->
+</td>
+</tr>
+</table><!--/column 1 - mens events-->
+</td>
+<td class=3D"emailnomob">
+<img src=3D"http://clymb.s3.amazonaws.com/email/spacer.gif" width=3D"14" he=
+ight=3D"1">
+</td>
+<td valign=3D"top" class=3D"emailcolsplit">
+<!--column 2 - womens events-->
+<table class=3D"emailwrapto100pc" style=3D"border-collapse:collapse; mso-ta=
+ble-lspace:0; mso-table-rspace:0; margin: 0; padding: 0; width: 224px;" cel=
+lpadding=3D"0" cellspacing=3D"0" border=3D"0">
+<tr style=3D"margin: 0; padding: 0;">
+<td style=3D"margin: 0; font-family: 'Proxima Nova', 'Helvetica Neue', Helv=
+etica, Arial, sans-serif; padding:0px;">
+<!--title - womens events-->
+<table class=3D"emailwrapto100pc" border=3D"0" cellspacing=3D"0" cellpaddin=
+g=3D"0" style=3D"margin: 0;width: 324px;">
+<tr style=3D"height: 17px;">
+<td style=3D"margin: 0;padding-top: 7px;padding-bottom: 7px;">
+<div style=3D"width: 100%; margin: 0 auto; display: block;">
+<fieldset style=3D"border: 0px;border-top: 1px solid #58595b;padding:2px;">
+<legend align=3D"center" style=3D"padding:0px 14px;"><a href=3D"http://link=
+.st.theclymb.com/5424569b09c5c5dd638b588e1vhnb.8rsp/U6ICU8PoW37GHwmlB536e" =
+style=3D"padding: 0px;color: #ffffff;font-size: 14px;font-family: 'Proxima =
+Nova', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-weight: bold;let=
+ter-spacing: 1px;white-space: nowrap;text-decoration: none;">WOMEN'S</a></l=
+egend>
+</fieldset>
+</div>
+</td>
+</tr>
+</table><!--/title - womens events-->
+<!--event-->
+<table class=3D"emailwrapto100pc" width=3D"324" cellpadding=3D"0" cellspaci=
+ng=3D"0">
+<tr>
+<td style=3D"padding-bottom: 14px">
+<table class=3D"emailwrapto100pc" width=3D"324" cellpadding=3D"0" cellspaci=
+ng=3D"0">
+<tr>
+<td>
+<a title=3D"24 Hours Only" href=3D"http://link.st.theclymb.com/5424569b09c5=
+c5dd638b588e1vhnb.8rsp/VC8qi0mO8szYNWNiB5898"><img class=3D"emailwrapto100p=
+c" src=3D"http://clymb.s3.amazonaws.com/email/100614_W_raen_70off.jpg" alt=
+=3D"24 Hours Only" width=3D"324" style=3D" font-family: 'Proxima Nova', 'He=
+lvetica Neue', Helvetica, Arial, sans-serif; margin: 0; padding: 0; display=
+:block;" border=3D"0"></a>
+</td>
+</tr>
+<tr>
+<td align=3D"center" width=3D"324" height=3D"36" bgcolor=3D"#00CCFF">
+<a href=3D"http://link.st.theclymb.com/5424569b09c5c5dd638b588e1vhnb.8rsp/V=
+C8qi0mO8szYNWNiC378e" style=3D"font-size: 14px; font-weight: bold; margin: =
+0px; padding: 10px; background-color: #00ccff !important; font-family: 'Pro=
+xima Nova', 'Helvetica Neue', Helvetica, Arial, sans-serif; text-decoration=
+: none; color: #111111; display: block; text-align: center;letter-spacing:1=
+px;text-transform: uppercase;">Shop Women's RAEN<img src=3D"http://clymb.s3=
+.amazonaws.com/email/grayarrow.png" width=3D"6px" height=3D"7px" alt=3D"" s=
+tyle=3D"border: none;color: #ffffff;padding-bottom: 1px;width: 6px;height: =
+7px;padding-left: 4px;"></a>
+</td>
+</tr>
+<tr>
+<td align=3D"center" width=3D"324" height=3D"44" bgcolor=3D"#333333">
+<a href=3D"http://link.st.theclymb.com/5424569b09c5c5dd638b588e1vhnb.8rsp/V=
+C8qi0mO8szYNWNiD8e8e" style=3D"font-size: 13px; font-weight: normal; margin=
+: 0px; padding: 10px; background-color: #333333 !important; font-family: 'P=
+roxima Nova', 'Helvetica Neue', Helvetica, Arial, sans-serif; text-decorati=
+on: none; color: #aaaaaa; display: block; text-align: center;letter-spacing=
+:0px;font-style:italic;">Elevated design for your eyes</a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table><!--/event--><!--event-->
+<table class=3D"emailwrapto100pc" width=3D"324" cellpadding=3D"0" cellspaci=
+ng=3D"0">
+<tr>
+<td style=3D"padding-bottom: 14px">
+<table class=3D"emailwrapto100pc" width=3D"324" cellpadding=3D"0" cellspaci=
+ng=3D"0">
+<tr>
+<td>
+<a title=3D"Raen, Element Eden, &amp; More" href=3D"http://link.st.theclymb=
+.com/5424569b09c5c5dd638b588e1vhnb.8rsp/VC8EMUmOhnraIGXcBdf2b"><img class=
+=3D"emailwrapto100pc" src=3D"http://clymb.s3.amazonaws.com/email/100514_Oct=
+ober_Woman_email_tile.jpg" alt=3D"Raen, Element Eden, &amp; More" width=3D"=
+324" style=3D" font-family: 'Proxima Nova', 'Helvetica Neue', Helvetica, Ar=
+ial, sans-serif; margin: 0; padding: 0; display:block;" border=3D"0"></a>
+</td>
+</tr>
+<tr>
+<td align=3D"center" width=3D"324" height=3D"36" bgcolor=3D"#00CCFF">
+<a href=3D"http://link.st.theclymb.com/5424569b09c5c5dd638b588e1vhnb.8rsp/V=
+C8EMUmOhnraIGXcC26b4" style=3D"font-size: 14px; font-weight: bold; margin: =
+0px; padding: 10px; background-color: #00ccff !important; font-family: 'Pro=
+xima Nova', 'Helvetica Neue', Helvetica, Arial, sans-serif; text-decoration=
+: none; color: #111111; display: block; text-align: center;letter-spacing:1=
+px;text-transform: uppercase;">Shop Ultimate October Woman<img src=3D"http:=
+//clymb.s3.amazonaws.com/email/grayarrow.png" width=3D"6px" height=3D"7px" =
+alt=3D"" style=3D"border: none;color: #ffffff;padding-bottom: 1px;width: 6p=
+x;height: 7px;padding-left: 4px;"></a>
+</td>
+</tr>
+<tr>
+<td align=3D"center" width=3D"324" height=3D"44" bgcolor=3D"#333333">
+<a href=3D"http://link.st.theclymb.com/5424569b09c5c5dd638b588e1vhnb.8rsp/V=
+C8EMUmOhnraIGXcD4b78" style=3D"font-size: 13px; font-weight: normal; margin=
+: 0px; padding: 10px; background-color: #333333 !important; font-family: 'P=
+roxima Nova', 'Helvetica Neue', Helvetica, Arial, sans-serif; text-decorati=
+on: none; color: #aaaaaa; display: block; text-align: center;letter-spacing=
+:0px;font-style:italic;">Styles to capture the essence of October.</a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table><!--/event--><!--event-->
+<table class=3D"emailwrapto100pc" width=3D"324" cellpadding=3D"0" cellspaci=
+ng=3D"0">
+<tr>
+<td style=3D"padding-bottom: 14px">
+<table class=3D"emailwrapto100pc" width=3D"324" cellpadding=3D"0" cellspaci=
+ng=3D"0">
+<tr>
+<td>
+<a title=3D"MPG, Asics, &amp; More" href=3D"http://link.st.theclymb.com/542=
+4569b09c5c5dd638b588e1vhnb.8rsp/VC8qi0mO8szYNWNjBbc74"><img class=3D"emailw=
+rapto100pc" src=3D"http://theclymb-cdn.global.ssl.fastly.net/brand_profiles=
+/12568/custom_emaillarge_0-ee696140fa57afd16eb450c8fc6ba156adc7de15.jpg" al=
+t=3D"MPG, Asics, &amp; More" width=3D"324" style=3D" font-family: 'Proxima =
+Nova', 'Helvetica Neue', Helvetica, Arial, sans-serif; margin: 0; padding: =
+0; display:block;" border=3D"0"></a>
+</td>
+</tr>
+<tr>
+<td align=3D"center" width=3D"324" height=3D"36" bgcolor=3D"#00CCFF">
+<a href=3D"http://link.st.theclymb.com/5424569b09c5c5dd638b588e1vhnb.8rsp/V=
+C8qi0mO8szYNWNjC6986" style=3D"font-size: 14px; font-weight: bold; margin: =
+0px; padding: 10px; background-color: #00ccff !important; font-family: 'Pro=
+xima Nova', 'Helvetica Neue', Helvetica, Arial, sans-serif; text-decoration=
+: none; color: #111111; display: block; text-align: center;letter-spacing:1=
+px;text-transform: uppercase;">Shop Women's Multi-Sport<img src=3D"http://c=
+lymb.s3.amazonaws.com/email/grayarrow.png" width=3D"6px" height=3D"7px" alt=
+=3D"" style=3D"border: none;color: #ffffff;padding-bottom: 1px;width: 6px;h=
+eight: 7px;padding-left: 4px;"></a>
+</td>
+</tr>
+<tr>
+<td align=3D"center" width=3D"324" height=3D"44" bgcolor=3D"#333333">
+<a href=3D"http://link.st.theclymb.com/5424569b09c5c5dd638b588e1vhnb.8rsp/V=
+C8qi0mO8szYNWNjD8c31" style=3D"font-size: 13px; font-weight: normal; margin=
+: 0px; padding: 10px; background-color: #333333 !important; font-family: 'P=
+roxima Nova', 'Helvetica Neue', Helvetica, Arial, sans-serif; text-decorati=
+on: none; color: #aaaaaa; display: block; text-align: center;letter-spacing=
+:0px;font-style:italic;">Apparel and footwear to get in shape</a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table><!--/event-->
+<!--event-->
+<table class=3D"emailwrapto100pc" width=3D"324" cellpadding=3D"0" cellspaci=
+ng=3D"0">
+<tr>
+<td style=3D"padding-bottom: 14px">
+<table class=3D"emailwrapto100pc" width=3D"324" cellpadding=3D"0" cellspaci=
+ng=3D"0">
+<tr>
+<td>
+<a title=3D"48 Hours Only" href=3D"http://link.st.theclymb.com/5424569b09c5=
+c5dd638b588e1vhnb.8rsp/VC75jkmOW3loGPt3B83ce"><img class=3D"emailwrapto100p=
+c" src=3D"http://clymb.s3.amazonaws.com/email/100614_W_SLS3_ends_soon.jpg" =
+alt=3D"48 Hours Only" width=3D"324" style=3D" font-family: 'Proxima Nova', =
+'Helvetica Neue', Helvetica, Arial, sans-serif; margin: 0; padding: 0; disp=
+lay:block;" border=3D"0"></a>
+</td>
+</tr>
+<tr>
+<td align=3D"center" width=3D"324" height=3D"36" bgcolor=3D"#00CCFF">
+<a href=3D"http://link.st.theclymb.com/5424569b09c5c5dd638b588e1vhnb.8rsp/V=
+C75jkmOW3loGPt3Cbf08" style=3D"font-size: 14px; font-weight: bold; margin: =
+0px; padding: 10px; background-color: #00ccff !important; font-family: 'Pro=
+xima Nova', 'Helvetica Neue', Helvetica, Arial, sans-serif; text-decoration=
+: none; color: #111111; display: block; text-align: center;letter-spacing:1=
+px;text-transform: uppercase;">Shop Women's SLS3<img src=3D"http://clymb.s3=
+.amazonaws.com/email/grayarrow.png" width=3D"6px" height=3D"7px" alt=3D"" s=
+tyle=3D"border: none;color: #ffffff;padding-bottom: 1px;width: 6px;height: =
+7px;padding-left: 4px;"></a>
+</td>
+</tr>
+<tr>
+<td align=3D"center" width=3D"324" height=3D"44" bgcolor=3D"#333333">
+<a href=3D"http://link.st.theclymb.com/5424569b09c5c5dd638b588e1vhnb.8rsp/V=
+C75jkmOW3loGPt3Ddaba" style=3D"font-size: 13px; font-weight: normal; margin=
+: 0px; padding: 10px; background-color: #333333 !important; font-family: 'P=
+roxima Nova', 'Helvetica Neue', Helvetica, Arial, sans-serif; text-decorati=
+on: none; color: #aaaaaa; display: block; text-align: center;letter-spacing=
+:0px;font-style:italic;">Top of the line fitness apparel.</a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table><!--/event-->
+</td>
+</tr>
+</table><!--/column 1 - mens events-->
+</td>
+</tr>
+</table><!--/Mens and womens sales--><!--Gear and more-->
+<table class=3D"emailwrapto100pc" style=3D"width: 662px" align=3D"center" c=
+ellpadding=3D"0" cellspacing=3D"0">
+<tr>
+<td width=3D"100%">
+<fieldset style=3D"border: 0px;border-top: 1px solid #58595b;padding:0px;ma=
+rgin:0px">
+<legend style=3D"padding:11px 14px;" align=3D"center"><a style=3D"padding: =
+0px;color: #ffffff;font-size: 14px;font-family: 'Proxima Nova', 'Helvetica =
+Neue', Helvetica, Arial, sans-serif;font-weight: bold;letter-spacing: 1px;w=
+hite-space: nowrap;text-decoration: none;" href=3D"http://link.st.theclymb.=
+com/5424569b09c5c5dd638b588e1vhnb.8rsp/U6ICU8PoW37GHwmpB7dc9">GEAR AND MORE=
+</a></legend>
+</fieldset>
+</td>
+</tr>
+</table>
+<table class=3D"emailwrapto100pc" width=3D"662" align=3D"center" cellpaddin=
+g=3D"0" cellspacing=3D"0" border=3D"0">
+<tr>
+<td style=3D"margin: 0; padding: 0;" class=3D"emailcolsplit" valign=3D"top"=
+>
+<table class=3D"emailwrapto100pc" align=3D"left" style=3D"border-collapse:c=
+ollapse; mso-table-lspace:0; mso-table-rspace:0; margin: 0; padding: 0px; w=
+idth: 224px;" cellpadding=3D"0" cellspacing=3D"0" border=3D"0">
+<tr style=3D"margin: 0; padding: 0;">
+<td style=3D"margin: 0; padding-bottom: 14px; font-family: 'Proxima Nova', =
+'Helvetica Neue', Helvetica, Arial, sans-serif;">
+<table class=3D"emailwrapto100pc" width=3D"324" cellpadding=3D"0" cellspaci=
+ng=3D"0">
+<tr>
+<td>
+<a title=3D"24 Hours Only" href=3D"http://link.st.theclymb.com/5424569b09c5=
+c5dd638b588e1vhnb.8rsp/VC8qi0mO8szYNWNkB7524"><img class=3D"emailwrapto100p=
+c" src=3D"http://clymb.s3.amazonaws.com/email/100414_POC_email_hero.jpg" al=
+t=3D"24 Hours Only" width=3D"324" style=3D"font-family: 'Proxima Nova', 'He=
+lvetica Neue', Helvetica, Arial, sans-serif; margin: 0; padding: 0; display=
+:block;" border=3D"0"></a>
+</td>
+</tr>
+<tr>
+<td align=3D"center" width=3D"324" height=3D"36" bgcolor=3D"#00CCFF">
+<a href=3D"http://link.st.theclymb.com/5424569b09c5c5dd638b588e1vhnb.8rsp/V=
+C8qi0mO8szYNWNkCd64e" style=3D"font-size: 14px; font-weight: bold; margin: =
+0px; padding: 10px; background-color: #00ccff !important; font-family: 'Pro=
+xima Nova', 'Helvetica Neue', Helvetica, Arial, sans-serif; text-decoration=
+: none; color: #111111; display: block; text-align: center;letter-spacing:1=
+px;text-transform: uppercase;">Shop POC<img src=3D"http://clymb.s3.amazonaw=
+s.com/email/grayarrow.png" width=3D"6px" height=3D"7px" alt=3D"" style=3D"b=
+order: none;color: #ffffff;padding-bottom: 1px;width: 6px;height: 7px;paddi=
+ng-left: 4px;"></a>
+</td>
+</tr>
+<tr>
+<td align=3D"center" width=3D"324" height=3D"44" bgcolor=3D"#333333">
+<a href=3D"http://link.st.theclymb.com/5424569b09c5c5dd638b588e1vhnb.8rsp/V=
+C8qi0mO8szYNWNkD9a54" style=3D"font-size: 13px; font-weight: normal; margin=
+: 0px; padding: 10px; background-color: #333333 !important; font-family: 'P=
+roxima Nova', 'Helvetica Neue', Helvetica, Arial, sans-serif; text-decorati=
+on: none; color: #aaaaaa; display: block; text-align: center;letter-spacing=
+:0px;font-style:italic;">State-of-the-art designs to rely on</a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+<td class=3D"emailnomob">
+<img src=3D"http://clymb.s3.amazonaws.com/email/spacer.gif" width=3D"14" he=
+ight=3D"1">
+</td>
+<td style=3D"margin: 0; padding: 0;" class=3D"emailcolsplit">
+<table class=3D"emailwrapto100pc" align=3D"left" style=3D"border-collapse:c=
+ollapse; mso-table-lspace:0; mso-table-rspace:0; margin: 0; padding: 0px; w=
+idth: 224px;" cellpadding=3D"0" cellspacing=3D"0" border=3D"0">
+<tr style=3D"margin: 0; padding: 0;">
+<td style=3D"margin: 0; padding-bottom: 14px; font-family: 'Proxima Nova', =
+'Helvetica Neue', Helvetica, Arial, sans-serif;">
+<table class=3D"emailwrapto100pc" width=3D"324" cellpadding=3D"0" cellspaci=
+ng=3D"0">
+<tr>
+<td>
+<a title=3D"24 Hours Only" href=3D"http://link.st.theclymb.com/5424569b09c5=
+c5dd638b588e1vhnb.8rsp/VC8qi0mO8szYNWNlBc6e9"><img class=3D"emailwrapto100p=
+c" src=3D"http://clymb.s3.amazonaws.com/email/100614_TopoDesigns_40off.jpg"=
+ alt=3D"24 Hours Only" width=3D"324" style=3D"font-family: 'Proxima Nova', =
+'Helvetica Neue', Helvetica, Arial, sans-serif; margin: 0; padding: 0; disp=
+lay:block;" border=3D"0"></a>
+</td>
+</tr>
+<tr>
+<td align=3D"center" width=3D"324" height=3D"36" bgcolor=3D"#00CCFF">
+<a href=3D"http://link.st.theclymb.com/5424569b09c5c5dd638b588e1vhnb.8rsp/V=
+C8qi0mO8szYNWNlC97c8" style=3D"font-size: 14px; font-weight: bold; margin: =
+0px; padding: 10px; background-color: #00ccff !important; font-family: 'Pro=
+xima Nova', 'Helvetica Neue', Helvetica, Arial, sans-serif; text-decoration=
+: none; color: #111111; display: block; text-align: center;letter-spacing:1=
+px;text-transform: uppercase;">Shop Topo Designs<img src=3D"http://clymb.s3=
+.amazonaws.com/email/grayarrow.png" width=3D"6px" height=3D"7px" alt=3D"" s=
+tyle=3D"border: none;color: #ffffff;padding-bottom: 1px;width: 6px;height: =
+7px;padding-left: 4px;"></a>
+</td>
+</tr>
+<tr>
+<td align=3D"center" width=3D"324" height=3D"44" bgcolor=3D"#333333">
+<a href=3D"http://link.st.theclymb.com/5424569b09c5c5dd638b588e1vhnb.8rsp/V=
+C8qi0mO8szYNWNlD7936" style=3D"font-size: 13px; font-weight: normal; margin=
+: 0px; padding: 10px; background-color: #333333 !important; font-family: 'P=
+roxima Nova', 'Helvetica Neue', Helvetica, Arial, sans-serif; text-decorati=
+on: none; color: #aaaaaa; display: block; text-align: center;letter-spacing=
+:0px;font-style:italic;">Packs that blend art and function</a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td style=3D"margin: 0; padding: 0;" class=3D"emailcolsplit" valign=3D"top"=
+>
+<table class=3D"emailwrapto100pc" align=3D"left" style=3D"border-collapse:c=
+ollapse; mso-table-lspace:0; mso-table-rspace:0; margin: 0; padding: 0px; w=
+idth: 224px;" cellpadding=3D"0" cellspacing=3D"0" border=3D"0">
+<tr style=3D"margin: 0; padding: 0;">
+<td style=3D"margin: 0; padding-bottom: 14px; font-family: 'Proxima Nova', =
+'Helvetica Neue', Helvetica, Arial, sans-serif;">
+<table class=3D"emailwrapto100pc" width=3D"324" cellpadding=3D"0" cellspaci=
+ng=3D"0">
+<tr>
+<td>
+<a title=3D"24 Hours Only" href=3D"http://link.st.theclymb.com/5424569b09c5=
+c5dd638b588e1vhnb.8rsp/VC8qi0mO8szYNWNmB46f8"><img class=3D"emailwrapto100p=
+c" src=3D"http://theclymb-cdn.global.ssl.fastly.net/brand_profiles/10868/cu=
+stom_emaillarge_0-30c8a3370771d28ae846807f8a35e27536bd39a2.jpg" alt=3D"24 H=
+ours Only" width=3D"324" style=3D"font-family: 'Proxima Nova', 'Helvetica N=
+eue', Helvetica, Arial, sans-serif; margin: 0; padding: 0; display:block;" =
+border=3D"0"></a>
+</td>
+</tr>
+<tr>
+<td align=3D"center" width=3D"324" height=3D"36" bgcolor=3D"#00CCFF">
+<a href=3D"http://link.st.theclymb.com/5424569b09c5c5dd638b588e1vhnb.8rsp/V=
+C8qi0mO8szYNWNmC7322" style=3D"font-size: 14px; font-weight: bold; margin: =
+0px; padding: 10px; background-color: #00ccff !important; font-family: 'Pro=
+xima Nova', 'Helvetica Neue', Helvetica, Arial, sans-serif; text-decoration=
+: none; color: #111111; display: block; text-align: center;letter-spacing:1=
+px;text-transform: uppercase;">Shop The Clymb<img src=3D"http://clymb.s3.am=
+azonaws.com/email/grayarrow.png" width=3D"6px" height=3D"7px" alt=3D"" styl=
+e=3D"border: none;color: #ffffff;padding-bottom: 1px;width: 6px;height: 7px=
+;padding-left: 4px;"></a>
+</td>
+</tr>
+<tr>
+<td align=3D"center" width=3D"324" height=3D"44" bgcolor=3D"#333333">
+<a href=3D"http://link.st.theclymb.com/5424569b09c5c5dd638b588e1vhnb.8rsp/V=
+C8qi0mO8szYNWNmD0383" style=3D"font-size: 13px; font-weight: normal; margin=
+: 0px; padding: 10px; background-color: #333333 !important; font-family: 'P=
+roxima Nova', 'Helvetica Neue', Helvetica, Arial, sans-serif; text-decorati=
+on: none; color: #aaaaaa; display: block; text-align: center;letter-spacing=
+:0px;font-style:italic;">Orders Ship Free When You Purchase Clymb Gear!</a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+<td class=3D"emailnomob">
+<img src=3D"http://clymb.s3.amazonaws.com/email/spacer.gif" width=3D"14" he=
+ight=3D"1">
+</td>
+<td style=3D"margin: 0; padding: 0;" class=3D"emailcolsplit">
+<table class=3D"emailwrapto100pc" align=3D"left" style=3D"border-collapse:c=
+ollapse; mso-table-lspace:0; mso-table-rspace:0; margin: 0; padding: 0px; w=
+idth: 224px;" cellpadding=3D"0" cellspacing=3D"0" border=3D"0">
+<tr style=3D"margin: 0; padding: 0;">
+<td style=3D"margin: 0; padding-bottom: 14px; font-family: 'Proxima Nova', =
+'Helvetica Neue', Helvetica, Arial, sans-serif;">
+<a title=3D"Daily Spotlight: CIRQ Hooded Pax Jacket " href=3D"http://link.s=
+t.theclymb.com/5424569b09c5c5dd638b588e1vhnb.8rsp/VC8qi0mO8szYNWNnBb8e6"><i=
+mg class=3D"emailwrapto100pc" src=3D"https://clymb.s3.amazonaws.com/email/1=
+00614_spotlight-324x229.jpg" alt=3D"" width=3D"324" style=3D"font-family: '=
+Proxima Nova', 'Helvetica Neue', Helvetica, Arial, sans-serif; margin: 0; p=
+adding: 0; display:block;" border=3D"0"></a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td style=3D"margin: 0; padding: 0;" class=3D"emailcolsplit" valign=3D"top"=
+>
+<table class=3D"emailwrapto100pc" align=3D"left" style=3D"border-collapse:c=
+ollapse; mso-table-lspace:0; mso-table-rspace:0; margin: 0; padding: 0px; w=
+idth: 224px;" cellpadding=3D"0" cellspacing=3D"0" border=3D"0">
+<tr style=3D"margin: 0; padding: 0;">
+<td style=3D"margin: 0; padding-bottom: 14px; font-family: 'Proxima Nova', =
+'Helvetica Neue', Helvetica, Arial, sans-serif;">
+<table class=3D"emailwrapto100pc" width=3D"324" cellpadding=3D"0" cellspaci=
+ng=3D"0">
+<tr>
+<td>
+<a title=3D"Powerocks, Bern, &amp; More" href=3D"http://link.st.theclymb.co=
+m/5424569b09c5c5dd638b588e1vhnb.8rsp/VC8qi0mO8szYNWNoB4cf0"><img class=3D"e=
+mailwrapto100pc" src=3D"http://theclymb-cdn.global.ssl.fastly.net/brand_pro=
+files/12571/custom_emaillarge_0-5b982c7652592b7a71cd371184013ddaeefc7fd9.jp=
+g" alt=3D"Powerocks, Bern, &amp; More" width=3D"324" style=3D"font-family: =
+'Proxima Nova', 'Helvetica Neue', Helvetica, Arial, sans-serif; margin: 0; =
+padding: 0; display:block;" border=3D"0"></a>
+</td>
+</tr>
+<tr>
+<td align=3D"center" width=3D"324" height=3D"36" bgcolor=3D"#00CCFF">
+<a href=3D"http://link.st.theclymb.com/5424569b09c5c5dd638b588e1vhnb.8rsp/V=
+C8qi0mO8szYNWNoC601b" style=3D"font-size: 14px; font-weight: bold; margin: =
+0px; padding: 10px; background-color: #00ccff !important; font-family: 'Pro=
+xima Nova', 'Helvetica Neue', Helvetica, Arial, sans-serif; text-decoration=
+: none; color: #111111; display: block; text-align: center;letter-spacing:1=
+px;text-transform: uppercase;">Shop Electronic Accessories<img src=3D"http:=
+//clymb.s3.amazonaws.com/email/grayarrow.png" width=3D"6px" height=3D"7px" =
+alt=3D"" style=3D"border: none;color: #ffffff;padding-bottom: 1px;width: 6p=
+x;height: 7px;padding-left: 4px;"></a>
+</td>
+</tr>
+<tr>
+<td align=3D"center" width=3D"324" height=3D"44" bgcolor=3D"#333333">
+<a href=3D"http://link.st.theclymb.com/5424569b09c5c5dd638b588e1vhnb.8rsp/V=
+C8qi0mO8szYNWNoDcf50" style=3D"font-size: 13px; font-weight: normal; margin=
+: 0px; padding: 10px; background-color: #333333 !important; font-family: 'P=
+roxima Nova', 'Helvetica Neue', Helvetica, Arial, sans-serif; text-decorati=
+on: none; color: #aaaaaa; display: block; text-align: center;letter-spacing=
+:0px;font-style:italic;">Headphones, earbuds, cell cases, and more</a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+<td class=3D"emailnomob">
+<img src=3D"http://clymb.s3.amazonaws.com/email/spacer.gif" width=3D"14" he=
+ight=3D"1">
+</td>
+<td style=3D"margin: 0; padding: 0;" class=3D"emailcolsplit">
+<table class=3D"emailwrapto100pc" align=3D"left" style=3D"border-collapse:c=
+ollapse; mso-table-lspace:0; mso-table-rspace:0; margin: 0; padding: 0px; w=
+idth: 224px;" cellpadding=3D"0" cellspacing=3D"0" border=3D"0">
+<tr style=3D"margin: 0; padding: 0;">
+<td style=3D"margin: 0; padding-bottom: 14px; font-family: 'Proxima Nova', =
+'Helvetica Neue', Helvetica, Arial, sans-serif;">
+<a title=3D"What's Trending. See what Clymb members are buying right now!" =
+href=3D"http://link.st.theclymb.com/5424569b09c5c5dd638b588e1vhnb.8rsp/U6IU=
+_uYQHqZqEhWLB2e5e"><img class=3D"emailwrapto100pc" src=3D"http://clymb.s3.a=
+mazonaws.com/email/050714_whats_trending_324x229.jpg" alt=3D"" width=3D"324=
+" style=3D"font-family: 'Proxima Nova', 'Helvetica Neue', Helvetica, Arial,=
+ sans-serif; margin: 0; padding: 0; display:block;" border=3D"0"></a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table><!--/Gear and more--><!--Clymb Adventures Title-->
+<table class=3D"emailwrapto100pc" width=3D"662" align=3D"center" cellpaddin=
+g=3D"0" cellspacing=3D"0">
+<tr>
+<td align=3D"center" style=3D"margin: 0;padding-top: 7px;padding-bottom: 7p=
+x;">
+<img src=3D"http://clymb.s3.amazonaws.com/email/111213-adventures-mark.gif"=
+ style=3D"padding-bottom:7px;">
+<fieldset style=3D"border: 0px;border-top: 1px solid #58595b;padding:2px;">
+<legend align=3D"center" style=3D"padding-left: 14px;padding-right: 14px;">=
+<a href=3D"http://link.st.theclymb.com/5424569b09c5c5dd638b588e1vhnb.8rsp/U=
+6ICVMPoW37GHwm1B3a46" style=3D"padding: 0px;color: #99ee00;font-size: 14px;=
+font-family: 'Proxima Nova', 'Helvetica Neue', Helvetica, Arial, sans-serif=
+;font-weight: bold;letter-spacing: 1px;white-space: nowrap;text-decoration:=
+ none;">CLYMB ADVENTURES</a></legend>
+</fieldset>
+</td>
+</tr>
+</table><!--/Clymb Adventures Title--><!--Clymb Adventures-->
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" align=3D"center" wi=
+dth=3D"662" class=3D"emailwrapto100pc">
+<tr>
+<td style=3D"padding-bottom:14px;">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" align=3D"center" wi=
+dth=3D"662" class=3D"emailwrapto100pc">
+<tr>
+<td class=3D"emailcolsplit" style=3D"background-color: #333333;background-i=
+mage: url(http://clymb.s3.amazonaws.com/email/adventures-watermark2.png);ba=
+ckground-repeat: no-repeat;background-position: 100% 0%;vertical-align: top=
+;">
+<table border=3D"0" cellspacing=3D"20" cellpadding=3D"0" width=3D"100%">
+<tr>
+<td>
+<a href=3D"http://link.st.theclymb.com/5424569b09c5c5dd638b588e1vhnb.8rsp/V=
+C8twEmOX3nvm9GjB3238" style=3D"color: #FFFFFF; font-family: 'Proxima Nova',=
+ 'Helvetica Neue', Helvetica, Arial, sans-serif; display: block;font-size: =
+15px;width: 100%;text-decoration: none;text-transform:uppercase;padding-bot=
+tom:7px;font-weight:bold;">Vietnam Discovery for 2</a><a style=3D"color: #a=
+aaaaa; font-family: 'Proxima Nova', 'Helvetica Neue', Helvetica, Arial, san=
+s-serif;text-decoration: none;font-size: 15px; line-height: 22px;" href=3D"=
+http://link.st.theclymb.com/5424569b09c5c5dd638b588e1vhnb.8rsp/VC8twEmOX3nv=
+m9GjC8c79">Explore the majestic Halong Bay as you cruise among the islands.=
+ Then cycle country roads past rice paddies and villages, before completing=
+ your cross-country tour in the Mekong Delta.</a>
+</td>
+</tr>
+<tr>
+<td style=3D"border-top:1px #666666 solid;padding-top:7px;">
+<a style=3D"color: #FFFFFF;font-family: 'Proxima Nova', 'Helvetica Neue', H=
+elvetica, Arial, sans-serif; display: block;width: 100%;text-decoration: no=
+ne;font-weight:bold;font-size:14px;" href=3D"http://link.st.theclymb.com/54=
+24569b09c5c5dd638b588e1vhnb.8rsp/VC8twEmOX3nvm9GjD3c88">10 days / <span sty=
+le=3D"color: #99EE00;">$1,509.00</span></a>
+</td>
+</tr>
+</table>
+</td>
+<td class=3D"emailcolsplit">
+<a href=3D"http://link.st.theclymb.com/5424569b09c5c5dd638b588e1vhnb.8rsp/V=
+C8twEmOX3nvm9GjEf2a2" style=3D"display: block;bgcolor: #333333;font-family:=
+ 'Proxima Nova', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size: =
+15px;text-transform: uppercase;text-decoration: none;font-weight: bold;line=
+-height: 16px;width: 100%;"><img style=3D"width: 324px; border: none;color:=
+ #ffffff; display:block;" title=3D"" alt=3D"" src=3D"http://theclymb-cdn.gl=
+obal.ssl.fastly.net/banner_story_images/8374/email_82a9bf36ff6c836f327a3e2b=
+2f0a694fbfbd4b688a48955a7eceeaf5f7d12dee.jpg" class=3D"emailwrapto100pc"></=
+a>
+</td>
+</tr>
+<tr>
+<td colspan=3D"2" style=3D"background-color: #8BC53F;margin: 0;padding: 10p=
+x 0px;color: #ffffff;text-align: center;text-decoration: none;">
+<a href=3D"http://link.st.theclymb.com/5424569b09c5c5dd638b588e1vhnb.8rsp/V=
+C8twEmOX3nvm9GjF82ac" style=3D"display: block;color: #FFFFFF;font-family: '=
+Proxima Nova', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size: 15=
+px;text-transform: uppercase;text-decoration: none;font-weight: bold;line-h=
+eight: 16px;width: 100%;letter-spacing:1px;">Explore this Adventure <img st=
+yle=3D"border: none;color: #ffffff;padding-bottom: 1px;width: 6px;height: 7=
+px;padding-left: 2px;" title=3D"" alt=3D"" height=3D"7px" width=3D"6px" src=
+=3D"http://clymb.s3.amazonaws.com/email/whitearrow.png"></a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" align=3D"center" wi=
+dth=3D"662" class=3D"emailwrapto100pc">
+<tr>
+<td style=3D"padding-bottom:14px;">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" align=3D"center" wi=
+dth=3D"662" class=3D"emailwrapto100pc">
+<tr>
+<td class=3D"emailcolsplit" style=3D"background-color: #333333;background-i=
+mage: url(http://clymb.s3.amazonaws.com/email/adventures-watermark2.png);ba=
+ckground-repeat: no-repeat;background-position: 100% 0%;vertical-align: top=
+;">
+<table border=3D"0" cellspacing=3D"20" cellpadding=3D"0" width=3D"100%">
+<tr>
+<td>
+<a href=3D"http://link.st.theclymb.com/5424569b09c5c5dd638b588e1vhnb.8rsp/V=
+CsDUkmOuwEx8b4kB5bd4" style=3D"color: #FFFFFF; font-family: 'Proxima Nova',=
+ 'Helvetica Neue', Helvetica, Arial, sans-serif; display: block;font-size: =
+15px;width: 100%;text-decoration: none;text-transform:uppercase;padding-bot=
+tom:7px;font-weight:bold;">Everest Base Camp Trekking</a><a style=3D"color:=
+ #aaaaaa; font-family: 'Proxima Nova', 'Helvetica Neue', Helvetica, Arial, =
+sans-serif;text-decoration: none;font-size: 15px; line-height: 22px;" href=
+=3D"http://link.st.theclymb.com/5424569b09c5c5dd638b588e1vhnb.8rsp/VCsDUkmO=
+uwEx8b4kC715c">Discover breathtaking mountains, quaint Sherpa villages, and=
+ ancient Buddhist monasteries in the shadow of Mount Everest as you trek to=
+ Kala Patthar (18,225 ft) and Everest Base Camp (17,598 ft).</a>
+</td>
+</tr>
+<tr>
+<td style=3D"border-top:1px #666666 solid;padding-top:7px;">
+<a style=3D"color: #FFFFFF;font-family: 'Proxima Nova', 'Helvetica Neue', H=
+elvetica, Arial, sans-serif; display: block;width: 100%;text-decoration: no=
+ne;font-weight:bold;font-size:14px;" href=3D"http://link.st.theclymb.com/54=
+24569b09c5c5dd638b588e1vhnb.8rsp/VCsDUkmOuwEx8b4kDf588">14 days / <span sty=
+le=3D"color: #99EE00;">$999.00</span></a>
+</td>
+</tr>
+</table>
+</td>
+<td class=3D"emailcolsplit">
+<a href=3D"http://link.st.theclymb.com/5424569b09c5c5dd638b588e1vhnb.8rsp/V=
+CsDUkmOuwEx8b4kE6090" style=3D"display: block;bgcolor: #333333;font-family:=
+ 'Proxima Nova', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size: =
+15px;text-transform: uppercase;text-decoration: none;font-weight: bold;line=
+-height: 16px;width: 100%;"><img style=3D"width: 324px; border: none;color:=
+ #ffffff; display:block;" title=3D"Trek the roof of the world" alt=3D"Trek =
+the roof of the world" src=3D"http://theclymb-cdn.global.ssl.fastly.net/ban=
+ner_story_images/8315/email_41ca6ee695812ab825e31f896df2103b1469677fda4c358=
+6524f210d1003ff9c.jpg" class=3D"emailwrapto100pc"></a>
+</td>
+</tr>
+<tr>
+<td colspan=3D"2" style=3D"background-color: #8BC53F;margin: 0;padding: 10p=
+x 0px;color: #ffffff;text-align: center;text-decoration: none;">
+<a href=3D"http://link.st.theclymb.com/5424569b09c5c5dd638b588e1vhnb.8rsp/V=
+CsDUkmOuwEx8b4kFb0e0" style=3D"display: block;color: #FFFFFF;font-family: '=
+Proxima Nova', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size: 15=
+px;text-transform: uppercase;text-decoration: none;font-weight: bold;line-h=
+eight: 16px;width: 100%;letter-spacing:1px;">Explore this Adventure <img st=
+yle=3D"border: none;color: #ffffff;padding-bottom: 1px;width: 6px;height: 7=
+px;padding-left: 2px;" title=3D"Trek the roof of the world" alt=3D"Trek the=
+ roof of the world" height=3D"7px" width=3D"6px" src=3D"http://clymb.s3.ama=
+zonaws.com/email/whitearrow.png"></a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table><!--/Clymb Adventures--><!--title - there's still time-->
+<table class=3D"emailwrapto100pc" style=3D"width: 662px" align=3D"center" c=
+ellpadding=3D"0" cellspacing=3D"0">
+<tr style=3D"height: 25px;">
+<td style=3D"margin: 0;padding-top: 25px;padding-bottom: 7px;">
+<div class=3D"emailwrapto100pc" style=3D"width: 662px; margin: 0 auto; disp=
+lay: block;">
+<fieldset style=3D"border: 0px;border-top: 1px solid #58595b;padding:2px;">
+<legend align=3D"center" style=3D"padding-left: 14px;padding-right: 14px;">=
+<a href=3D"http://link.st.theclymb.com/5424569b09c5c5dd638b588e1vhnb.8rsp/U=
+6ICU8PoW37GHwmhC008a" style=3D"padding: 0px;color: #ffffff;font-size: 14px;=
+font-family: 'Proxima Nova', 'Helvetica Neue', Helvetica, Arial, sans-serif=
+;font-weight: bold;letter-spacing: 1px;white-space: nowrap;text-decoration:=
+ none;">THERE'S STILL TIME</a></legend>
+</fieldset>
+</div>
+</td>
+</tr>
+</table><!--/title - there's still time--><!-- There's Still Time -->
+<table width=3D"662" cellpadding=3D"0" cellspacing=3D"1" class=3D"emailwrap=
+to100pc" align=3D"center">
+<tr>
+<td class=3D"emailcolsplit">
+<table cellpadding=3D"0" cellspacing=3D"0" class=3D"emailwrapto100pc" width=
+=3D"100%">
+<tr>
+<td style=3D"padding: 20px 0px; background-color: #333333; border: none; te=
+xt-align: center;">
+<a href=3D"http://link.st.theclymb.com/5424569b09c5c5dd638b588e1vhnb.8rsp/V=
+C75jkmOW3loGPt0Bff7e" style=3D"border:none;"><img src=3D"http://theclymb-cd=
+n.global.ssl.fastly.net/brand_logos/9924/logolarge_1412286562049b433c5d0732=
+0fd9dd561298afa93a867a2c66.png" alt=3D"Men's SLS3" title=3D"Men's SLS3" hei=
+ght=3D"75" width=3D"100" border=3D"0" style=3D"border: none;color: #ffffff;=
+"></a>
+</td>
+<td style=3D"margin:0;padding:0px;">
+<img src=3D"http://clymb.s3.amazonaws.com/email/spacer.gif" width=3D"1" hei=
+ght=3D"1">
+</td>
+<td style=3D"padding: 20px 0px; background-color: #333333; border: none; te=
+xt-align: center;">
+<a href=3D"http://link.st.theclymb.com/5424569b09c5c5dd638b588e1vhnb.8rsp/V=
+C7tlUmOhnraIGVhBa592" style=3D"border:none;"><img src=3D"http://theclymb-cd=
+n.global.ssl.fastly.net/brand_logos/9855/logolarge_14120116814ce1a8132a4c94=
+a6e669523a2d1ec9103c8f170f.png" alt=3D"Girl's Gracie" title=3D"Girl's Graci=
+e" height=3D"75" width=3D"100" border=3D"0" style=3D"border: none;color: #f=
+fffff;"></a>
+</td>
+<td style=3D"margin:0;padding:0px;">
+<img src=3D"http://clymb.s3.amazonaws.com/email/spacer.gif" width=3D"1" hei=
+ght=3D"1">
+</td>
+<td style=3D"padding: 20px 0px; background-color: #333333; border: none; te=
+xt-align: center;">
+<a href=3D"http://link.st.theclymb.com/5424569b09c5c5dd638b588e1vhnb.8rsp/V=
+C7tlUmOhnraIGVgB0984" style=3D"border:none;"><img src=3D"http://theclymb-cd=
+n.global.ssl.fastly.net/brand_logos/9903/logolarge_141237104328a550e368e36b=
+7da9b302aa4713b7b6209cb6d1.png" alt=3D"Optic Nerve" title=3D"Optic Nerve" h=
+eight=3D"75" width=3D"100" border=3D"0" style=3D"border: none;color: #fffff=
+f;"></a>
+</td>
+<td style=3D"margin:0;padding:0px;">
+<img src=3D"http://clymb.s3.amazonaws.com/email/spacer.gif" width=3D"1" hei=
+ght=3D"1">
+</td>
+<td style=3D"padding: 20px 0px; background-color: #333333; border: none; te=
+xt-align: center;">
+<a href=3D"http://link.st.theclymb.com/5424569b09c5c5dd638b588e1vhnb.8rsp/V=
+C7tlUmOhnraIGVkB9a5e" style=3D"border:none;"><img src=3D"http://theclymb-cd=
+n.global.ssl.fastly.net/brand_logos/9904/logolarge_14121961037335f452f6d9bc=
+6241789d1b15b1c99495ac69d8.png" alt=3D"Sector 9" title=3D"Sector 9" height=
+=3D"75" width=3D"100" border=3D"0" style=3D"border: none;color: #ffffff;"><=
+/a>
+</td>
+</tr>
+<tr>
+<td style=3D"margin:0;padding:0px;">
+<img src=3D"http://clymb.s3.amazonaws.com/email/spacer.gif" width=3D"1" hei=
+ght=3D"1">
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table><!-- /There's Still Time --><!-- title - on this day in adventure -=
+->
+<table class=3D"emailwrapto100pc" width=3D"662" align=3D"center" border=3D"=
+0" cellspacing=3D"0" cellpadding=3D"0" style=3D"padding: 7px 0px;">
+<tr style=3D"height: 25px;">
+<td style=3D"margin: 0;padding-top: 16px;padding-bottom: 7px;">
+<div style=3D"max-width: 670px; margin: 0 auto; display: block;">
+<fieldset style=3D"border: 0px;border-top: 1px solid #58595b;padding:2px;">
+<legend align=3D"center" style=3D"padding-left: 14px;padding-right: 14px;">=
+<a href=3D"http://link.st.theclymb.com/5424569b09c5c5dd638b588e1vhnb.8rsp/U=
+6ICU8PoW37GHwmhD8e7b" style=3D"padding: 0px;color: #ffffff;font-size: 14px;=
+font-family: 'Proxima Nova', 'Helvetica Neue', Helvetica, Arial, sans-serif=
+;font-weight: bold;letter-spacing: 1px;white-space: nowrap;text-decoration:=
+ none;">ON THIS DAY IN ADVENTURE</a></legend>
+</fieldset>
+</div>
+</td>
+</tr>
+</table><!-- /title - on this day in adventure --><!-- This day in adventur=
+e -->
+<table class=3D"emailwrapto100pc" width=3D"662" align=3D"center" border=3D"=
+0" cellspacing=3D"0" cellpadding=3D"0" style=3D"background-color: #333333;"=
+>
+<tr>
+<td style=3D"color: #FFFFFF;max-width:100%;margin: 0;padding: 15px 20px 5px=
+;font-family: 'Proxima Nova', 'Helvetica Neue', Helvetica, Arial, sans-seri=
+f;font-weight: bold;font-size: 17px;">
+Lewis Completes the Ultimate Human-Powered Adventure
+</td>
+</tr>
+<tr>
+<td style=3D"color: #AAAAAA;padding: 5px 20px 20px 20px;font-family: 'Proxi=
+ma Nova', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size: 14px;li=
+ne-height: 19px;">
+On October 6th (that's today!), 2007, British adventurer Jason Lewis comple=
+ted a 13-year, human-powered global circumnavigation. Starting from England=
+, he rowed across the Atlantic, roller-bladed across North America, biked a=
+cross the Outback, got attacked by an alligator, and broke both of his legs=
+ after a car struck him while roller blading in Colorado. He spent 9-months=
+ recuperating before returning to his mission. He raised over $66,000 for c=
+harities along the way and traveled 46,000 miles.
+</td>
+</tr>
+<tr>
+<td style=3D"background-color: #00CCFF;margin: 0;padding: 10px 0;color: #ff=
+ffff;text-align: center;text-decoration: none;width: 662px;">
+<a href=3D"http://link.st.theclymb.com/5424569b09c5c5dd638b588e1vhnb.8rsp/U=
+6ICVMPoW37GHwnAB6cc8" title=3D"Read More Stories" style=3D"display: block;c=
+olor: #333333;font-family: 'Proxima Nova', 'Helvetica Neue', Helvetica, Ari=
+al, sans-serif;font-size: 15px;text-transform: uppercase;text-decoration: n=
+one;font-weight: bold;line-height: 16px;">Read More <img src=3D"http://clym=
+b.s3.amazonaws.com/email/grayarrow.png" width=3D"6px" height=3D"7px" title=
+=3D"Read More" alt=3D"Read More" style=3D"border: none;color: #ffffff;paddi=
+ng-bottom: 1px;width: 6px;height: 7px;padding-left: 2px;"></a>
+</td>
+</tr>
+</table><!-- /This day in adventure -->
+</div>
+<!-- /daily email -->=20
+</td>
+</tr>
+</table>
+<!-- /body wrapper -->  =20
+<!-- footer -->
+<table bgcolor=3D"#191919" width=3D"100%">
+<tr>
+<td width=3D"100%">
+<table id=3D"footer" width=3D"662" border=3D"0" cellpadding=3D"0" cellspaci=
+ng=3D"0" align=3D"center" class=3D"emailwrapto100pc">
+<tr>
+<td style=3D"font-family: proxima nova, 'Helvetica Neue', Helvetica, Arial,=
+ sans-serif; padding-bottom:14px; padding-top:14px;" align=3D"center">
+<a href=3D"http://link.st.theclymb.com/5424569b09c5c5dd638b588e1vhnb.8rsp/U=
+6ICVMPoW37GHwnDM2c7f" style=3D"color: #dddddd;text-decoration: none;" class=
+=3D"emailmobbutton">Member Support</a>
+<span style=3D"display: inline-block;margin: 0 2px;color: #00ccff;" class=
+=3D"emailnomob">/</span>
+<a href=3D"http://link.st.theclymb.com/5424569b09c5c5dd638b588e1vhnb.8rsp/U=
+6ICVMPoW37GHwnEMc781" style=3D"color: #dddddd;text-decoration: none;" class=
+=3D"emailmobbutton">Shipping Policy</a>
+<span style=3D"display: inline-block;margin: 0 2px;color: #00ccff;" class=
+=3D"emailnomob">/</span>
+<a href=3D"http://link.st.theclymb.com/5424569b09c5c5dd638b588e1vhnb.8rsp/U=
+6ICVMPoW37GHwnFMbc3f" style=3D"color: #dddddd;text-decoration: none;" class=
+=3D"emailmobbutton">FAQ</a>
+<span style=3D"display: inline-block;margin: 0 2px;color: #00ccff;" class=
+=3D"emailnomob">/</span>
+<a href=3D"http://link.st.theclymb.com/5424569b09c5c5dd638b588e1vhnb.8rsp/U=
+6ICVMPoW37GHwnGMa07b" style=3D"color: #dddddd;text-decoration: none;" class=
+=3D"emailmobbutton">All Sales</a>
+<span style=3D"display: inline-block;margin: 0 2px;color: #00ccff;" class=
+=3D"emailnomob">/</span>
+<a href=3D"http://link.st.theclymb.com/5424569b09c5c5dd638b588e1vhnb.8rsp/U=
+6ICVMPoW37GHwnAOdc9e" style=3D"color: #dddddd;text-decoration: none;" class=
+=3D"emailmobbutton">Stories</a>
+</td>
+</tr>
+<tr>
+<td align=3D"center" style=3D"padding:7px; padding:7px;">
+<a title=3D"Facebook" href=3D"http://link.st.theclymb.com/5424569b09c5c5dd6=
+38b588e1vhnb.8rsp/U6ICVMPoW37GHwnHM506e"><img src=3D"http://clymb.s3.amazon=
+aws.com/email/030314_social_FB.png" width=3D"20" height=3D"20" alt=3D"f" st=
+yle=3D"padding:2px; border: none;color: #ffffff;font-size: 10px; max-width:=
+50px; max-height:50px;" class=3D"emailwrapto100pc"/></a>
+<a title=3D"Twitter" href=3D"http://link.st.theclymb.com/5424569b09c5c5dd63=
+8b588e1vhnb.8rsp/U6ICVMPoW37GHwnIP07ba"><img src=3D"http://clymb.s3.amazona=
+ws.com/email/030314_social_TW.png" width=3D"20" height=3D"20" alt=3D"t" sty=
+le=3D"padding:2px; border: none;color: #ffffff;font-size: 10px; max-width:5=
+0px; max-height:50px;" class=3D"emailwrapto100pc"/></a>
+<a title=3D"Instagram" href=3D"http://link.st.theclymb.com/5424569b09c5c5dd=
+638b588e1vhnb.8rsp/U6ICVMPoW37GHwnJP37d9"><img src=3D"http://clymb.s3.amazo=
+naws.com/email/030314_social_IN.png" width=3D"20" height=3D"20" alt=3D"i" s=
+tyle=3D"padding:2px; border: none;color: #ffffff;font-size: 10px; max-width=
+:50px; max-height:50px;" class=3D"emailwrapto100pc"/></a>
+<a title=3D"Google Plus" href=3D"http://link.st.theclymb.com/5424569b09c5c5=
+dd638b588e1vhnb.8rsp/U6ICVMPoW37GHwnKP2a28"><img src=3D"http://clymb.s3.ama=
+zonaws.com/email/030314_social_GP.png" width=3D"20" height=3D"20" alt=3D"g"=
+ style=3D"padding:2px; border: none; color: #ffffff;font-size: 10px; max-wi=
+dth:50px; max-height:50px;" class=3D"emailwrapto100pc"/></a>
+</td>
+</tr>
+<tr>
+<td align=3D"center" style=3D"font-family: proxima nova, 'Helvetica Neue', =
+Helvetica, Arial, sans-serif; padding-bottom: 15px; padding-top: 7px; color=
+: #666666; font-size: 11px;">
+&copy; 2014 &middot; The Clymb, 1440 NW Overton St., Portland, OR 97209
+</td>
+</tr>
+<tr>
+<td colspan=3D"2" align=3D"center">
+<table width=3D"100%">
+<tr>
+<td align=3D"center" style=3D"font-style: italic; font-size: 12px;  padding=
+-top:14px; padding-bottom:7px; color: #666666;">You received this email bec=
+ause you're a valued member of <a href=3D"http://link.st.theclymb.com/54245=
+69b09c5c5dd638b588e1vhnb.8rsp/U6ICVMPoW37GHwnGbc955" style=3D"color: #00ccf=
+f;text-decoration: none;">theclymb.com</a></td>
+</tr>
+<tr>
+<td align=3D"center" style=3D"font-style: italic; font-size: 12px;  padding=
+-top:0px; padding-bottom:14px; color: #666666;">To unsubscribe from The Cly=
+mb emails, please <a href=3D"http://link.st.theclymb.com/oc/5424569b09c5c5d=
+d638b588e1vhnb.8rsp/7f331785" style=3D"color: #00ccff;text-decoration: none=
+;"> click here</a></td>
+</tr>
+<tr>
+<td align=3D"center" style=3D"font-family: proxima nova, 'Helvetica Neue', =
+Helvetica, Arial, sans-serif; letter-spacing:1px; font-size: 12px; padding-=
+top:0px; padding-bottom:14px; color: #666666;"> <a href=3D"http://link.st.t=
+heclymb.com/5424569b09c5c5dd638b588e1vhnb.8rsp/U6ICVMPoW37GHwnLL9c9f" style=
+=3D"color: #00ccff;text-decoration: none;" class=3D"emailmobbutton">Privacy=
+ Policy</a> <span class=3D"emailnomob">&#8226;</span>
+<a href=3D"http://link.st.theclymb.com/oc/5424569b09c5c5dd638b588e1vhnb.8rs=
+p/7f331785" style=3D"color: #00ccff;text-decoration: none;" class=3D"emailm=
+obbutton">Email Preferences </a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<!-- /footer -->
+</body>
+</html>
+------=_Part_23913258_297605565.1412607762337--

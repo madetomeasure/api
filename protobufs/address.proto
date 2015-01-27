@@ -1,0 +1,4 @@
+message Address {
+  required string user = 1;
+  required string host = 2;
+}

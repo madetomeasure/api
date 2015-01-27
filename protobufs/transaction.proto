@@ -1,0 +1,6 @@
+message Transaction {
+  required string uuid = 1;
+  required Address mail_from = 2;
+  repeated Address rcpt_to = 3;
+  optional string message_stream = 4;
+}

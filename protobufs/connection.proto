@@ -1,0 +1,4 @@
+message Connection {
+  required UUID uuid = 1;
+  
+}

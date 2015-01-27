@@ -1,0 +1,4 @@
+message UUID {
+  required sfixed64 top = 1;
+  required sfixed64 bottom = 1;
+}
