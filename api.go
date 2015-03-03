@@ -30,6 +30,6 @@ func welcome() {
 
 func HomeHandler(w http.ResponseWriter, r *http.Request) {
   w.Header().Add("Content-Type", "text/html")
-  fmt.Fprintf(w, "Hello World!")
+  fmt.Fprintf(w, "Hello from Made to Measure")
 }
 
