@@ -28,6 +28,7 @@ func welcome() {
 	fmt.Println("=> Ctrl-C to shutdown Server")
 }
 
+// HomeHandler will return a hello world page
 func HomeHandler(w http.ResponseWriter, r *http.Request) {
 	w.Header().Add("Content-Type", "text/html")
 	fmt.Fprintf(w, "Hello from Made to Measure")
