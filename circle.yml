@@ -1,0 +1,59 @@
+# Pony-up!
+machine:
+  pre:
+    - bash < <(curl -s -S -L https://raw.githubusercontent.com/moovweb/gvm/1.0.22/binscripts/gvm-installer)
+
+  post:
+    - gvm install go1.4 -B --name=stable
+
+  environment:
+  # Convenient shortcuts to "common" locations
+    CHECKOUT: /home/ubuntu/$CIRCLE_PROJECT_REPONAME
+    BASE_DIR: src/github.com/$CIRCLE_PROJECT_USERNAME/$CIRCLE_PROJECT_REPONAME
+  # Trick circle brainflat "no absolute path" behavior
+    BASE_STABLE: ../../../$HOME/.gvm/pkgsets/stable/global/$BASE_DIR
+  # Workaround Circle parsing dumb bugs and/or YAML wonkyness
+    CIRCLE_PAIN: "mode: set"
+
+  hosts:
+    fancy: 127.0.0.1
+
+dependencies:
+  pre:
+  # Copy the code to the gopath of all go versions
+    - >
+      gvm use stable &&
+      mkdir -p "$(dirname $BASE_STABLE)" &&
+      cp -R "$CHECKOUT" "$BASE_STABLE"
+
+  override:
+    - gvm use stable && go get github.com/tools/godep:
+        pwd: $BASE_STABLE
+  post:
+    - >
+      gvm use stable &&
+      go get github.com/axw/gocov/gocov github.com/mattn/goveralls github.com/golang/lint/golint
+test:
+  pre:
+    - gvm use stable && go version
+    - gvm use stable && test -z "$(gofmt -s -l . | grep -v Godeps/_workspace/src/ | tee /dev/stderr)":
+        pwd: $BASE_STABLE
+    - gvm use stable && go vet ./...:
+        pwd: $BASE_STABLE
+    - gvm use stable && test -z "$(golint ./... | grep -v Godeps/_workspace/src/ | tee /dev/stderr)":
+        pwd: $BASE_STABLE
+
+  override:
+    - echo "$CIRCLE_PAIN" > ~/goverage.report
+    - gvm use stable; go list ./... | xargs -L 1 -I{} rm -f $GOPATH/src/{}/coverage.out:
+        pwd: $BASE_STABLE
+
+    - gvm use stable; go list ./... | xargs -L 1 -I{} godep go test -test.short -coverprofile=$GOPATH/src/{}/coverage.out {}:
+        timeout: 600
+        pwd: $BASE_STABLE
+
+  post:
+    - gvm use stable; go list ./... | xargs -L 1 -I{} cat "$GOPATH/src/{}/coverage.out" | grep -v "$CIRCLE_PAIN" >> ~/goverage.report:
+        pwd: $BASE_STABLE
+    - gvm use stable; goveralls -service circleci -coverprofile=/home/ubuntu/goverage.report -repotoken $COVERALLS_TOKEN:
+        pwd: $BASE_STABLE
