@@ -1,19 +1,30 @@
-# api
-
-FIXME
+# The Made to Measure API
 
 ## Prerequisites
 
-You will need [Leiningen][1] 2.0 or above installed.
+It's important to install Go version 1.4
 
-[1]: https://github.com/technomancy/leiningen
+Probably the easiest way to manage go would be using gvm
 
-## Running
+`bash < <(curl -s -S -L https://raw.githubusercontent.com/moovweb/gvm/master/binscripts/gvm-installer)`
 
-To start a web server for the application, run:
+Install godep
 
-    lein ring server
+`go get github.com/tools/godep`
+`godep restore`
 
-## License
+## Running the app
 
-Copyright © 2015 FIXME
+Runnin the app is as simple as
+
+`go run api.go`
+
+## Testing
+
+We're using gingko and gomega
+
+`go get github.com/onsi/ginkgo/ginkgo`
+`go get github.com/onsi/gomega`
+
+
+
