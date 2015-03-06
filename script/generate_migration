@@ -1,0 +1,9 @@
+#!/bin/sh
+
+DATE=`date +%Y%m%d%H%M%S`
+FILE="./db/migrate/${DATE}_${1}.go"
+echo $FILE
+
+echo "func migration_${DATE}() {\
+\
+}" > $FILE

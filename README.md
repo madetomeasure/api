@@ -26,5 +26,4 @@ We're using gingko and gomega
 `go get github.com/onsi/ginkgo/ginkgo`
 `go get github.com/onsi/gomega`
 
-
-
+Do note that Gomega relies on a Ω which can be written in vim using `<C-k> W*` in insert mode
