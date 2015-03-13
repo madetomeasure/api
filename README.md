@@ -27,3 +27,11 @@ We're using gingko and gomega
 `go get github.com/onsi/gomega`
 
 Do note that Gomega relies on a Ω which can be written in vim using `<C-k> W*` in insert mode
+
+## RAML
+
+To get RAML to render in the browser we need to install raml2html
+
+`npm i -g raml2html`
+
+

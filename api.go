@@ -9,8 +9,8 @@ import (
 
 func main() {
 	r := mux.NewRouter()
-	r.HandleFunc("/", HomeHandler)
 	welcome()
+        r.Handle("/", http.FileServer(http.Dir("./public/")))
 	http.ListenAndServe(":"+port(), r)
 }
 
@@ -26,10 +26,4 @@ func welcome() {
 	fmt.Println("=> Booting...")
 	fmt.Println("=> Made to Measure Alpha application starting in development on http://0.0.0.0:" + port())
 	fmt.Println("=> Ctrl-C to shutdown Server")
-}
-
-// HomeHandler will return a hello world page
-func HomeHandler(w http.ResponseWriter, r *http.Request) {
-	w.Header().Add("Content-Type", "text/html")
-	fmt.Fprintf(w, "Hello from Made to Measure")
 }

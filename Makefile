@@ -38,3 +38,7 @@ test:
 test-full:
 	@echo "+ $@"
 	@go test ./...
+
+api-docs:
+	@echo "+ $@"
+	@raml2html specs/api.raml > ./public/index.html
