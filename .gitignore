@@ -2,3 +2,4 @@ coverage.out
 Godeps/_workspace
 pkg/**/*
 public/**/*
+*.swp

@@ -6,14 +6,6 @@ import (
     "github.com/lib/pq"
 )
 
-type DBConfiguration struct {
-  Database  string
-  Host      string   
-  Username  string
-  Password  string
-  Encoding  string
-}
-
 func connectionInfo() string {
     file, _ := os.Open("database.json")
     decoder := json.NewDecoder(file)
@@ -24,16 +16,16 @@ func connectionInfo() string {
 
     if err != nil {
       fmt.Println("Error:", err)
-    }   
+    }
+
 
     fmt.Println(configuration)
-    
     info := fmt.Sprintf(
       "user=%s password=%s host=%s encoding=%s dbname=%s",
-      config.Username, config.Password, config.Host, 
+      config.Username, config.Password, config.Host,
       config.Encoding, config.Database
     )
-    return info 
+    return info
 }
 
 db, err := gorm.Open("postgres", connectionInfo())
