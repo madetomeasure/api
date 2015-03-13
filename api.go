@@ -27,9 +27,14 @@ func port() string {
 
 func startRouter() http.Handler {
 	r := mux.NewRouter()
-	r.Handle("/", http.FileServer(http.Dir("./public/")))
-	r.HandleFunc("/subscribers", subscriber.RequestHandler)
-	r.HandleFunc("/welcome", NotImplementedHandler)
+        // Subscriber Endpoints
+	r.HandleFunc("/subscribers", subscriber.IndexHandler).Methods("GET")
+	r.HandleFunc("/subscribers", subscriber.CreateHandler).Methods("POST")
+        r.HandleFunc("/subscribers/{subscriberId}", subscriber.UpdateHandler).Methods("POST", "PATCH")
+        r.HandleFunc("/subscribers/{subscriberId}", subscriber.DestroyHandler).Methods("DELETE")
+
+        // Human readable spec
+        r.Handle("/spec", http.FileServer(http.Dir("./public/")))
         return r
 }
 
