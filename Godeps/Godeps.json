@@ -11,6 +11,20 @@
 			"Rev": "8a875a034c69b940914d83ea03d3f1299b4d094b"
 		},
 		{
+			"ImportPath": "github.com/jinzhu/gorm",
+			"Rev": "7d16055a5d33f44df201c310764fedeb0bd6cde4"
+		},
+		{
+			"ImportPath": "github.com/kylelemons/go-gypsy/yaml",
+			"Comment": "go.weekly.2011-11-02-19-g42fc2c7",
+			"Rev": "42fc2c7ee9b8bd0ff636cd2d7a8c0a49491044c5"
+		},
+		{
+			"ImportPath": "github.com/lib/pq",
+			"Comment": "go1.0-cutoff-28-g72d960f",
+			"Rev": "72d960fe96ac86dfd376b0de7ca81c0334838d0b"
+		},
+		{
 			"ImportPath": "github.com/onsi/ginkgo",
 			"Comment": "v1.1.0-41-g38caab9",
 			"Rev": "38caab951a9ff39f0e61294a1dbaaa074a39228b"
