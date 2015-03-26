@@ -42,3 +42,6 @@ test-full:
 api-docs:
 	@echo "+ $@"
 	@raml2html specs/api.raml > ./public/index.html
+db-create:
+	@echo "+ $@"
+	@createdb madetomeasure_development
